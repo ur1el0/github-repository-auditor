@@ -1,17 +1,22 @@
 import os
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 # Grab the secret token
 TOKEN = os.getenv('GH_PAT')
 headers = {'Authorization': f'token {TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
 
 # Calculate exactly 24 hours ago
-yesterday = (datetime.utcnow() - timedelta(days=1)).isoformat()
-today_str = datetime.utcnow().strftime('%Y-%m-%d')
+yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).isoformat()
+today_str = datetime.now(timezone.utc).strftime('%Y-%m-%d')
 
 # Get all your repositories
-repos = requests.get('https://api.github.com/user/repos?per_page=100&sort=updated', headers=headers).json()
+response = requests.get('https://api.github.com/user/repos?per_page=100&sort=updated', headers=headers)
+if response.status_code != 200:
+    print(f"Error fetching repositories: {response.status_code} - {response.text}")
+    exit(1)
+
+repos = response.json()
 
 with open('audit.md', 'a') as file:
     file.write(f"\n## Activity for {today_str}\n\n")
