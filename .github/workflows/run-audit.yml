@@ -35,4 +35,4 @@ jobs:
           git config --global user.email "zanoroosc@gmail.com"
           git add audit.md
           git commit -m "Automated daily audit log" || exit 0
-          git push
+          git push origin main
