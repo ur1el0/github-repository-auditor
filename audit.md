@@ -90,3 +90,34 @@
 ### 📁 Hello-ReactNative
 - `4f08525`: initial commit
 
+
+## Activity for 2026-07-26
+
+### 📁 Gridy
+- `fad8720`: Merge pull request #4 from mikeandrei32/feature/gridy-communications
+- `63a6368`: fix(communications): resolve circular import and clean up misspelled serializer file
+- `09cacb1`: fix(communications): instantiate IsBarangayOfficial permission class
+- `0a21f89`: feat(communications): configure url routes for communications endpoints
+- `b29fb85`: feat(communications): viewsets with RBAC permission contrils
+- `31d284b`: fix(communications): serializer file name & import
+- `a4664be`: fix(config): initialize gridy_communications in configurations
+- `7aa09e9`: feat(communications): implement Announcement and ActivitySchedule serializers
+- `1399769`: feat(communications): define Announcement and ActivitySchedule models
+- `75326e8`: Merge pull request #3 from mikeandrei32/feature/gridy-reports
+- `31b2b91`: feat(reports): configure url routing for IssueReportViewSet under /api/v1/reports/
+- `ebd156b`: feat(reports): implement IssueReportViewSet with file upload support
+
+### 📁 github-repository-auditor
+- `e75da3a`: Automated daily audit log
+
+### 📁 Lock-Ad-v3
+- `aa02de0`: Merge pull request #5 from ur1el0/feature/navigation-api
+- `0e6f617`: test(nav): fix keyerror and add missing assert in views tests
+- `21c4c38`: test(navigation): add manual HTTP client test config
+- `a839594`: test(navigation): add route preview api coverage
+- `4598469`: fix(navigation): resolve absolute imports, URL domain and register routes
+- `fc4a7eb`: feat(nav): expose route preview endpoint
+- `a25136b`: fix(navigation): correct routing url and payload in service
+- `7867058`: fix(navigation): correct route preview validation default
+- `e31fec8`: feat(navigation): add routing provider service:
+
