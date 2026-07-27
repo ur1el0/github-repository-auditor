@@ -138,3 +138,37 @@
 - `7aa09e9`: feat(communications): implement Announcement and ActivitySchedule serializers
 - `1399769`: feat(communications): define Announcement and ActivitySchedule models
 
+
+## Activity for 2026-07-27
+
+### 📁 Lock-Ad-v3
+- `c8d4c73`: Merge branch 'feature/frontend-map'
+- `2e2ec59`: Merge pull request #7 from ur1el0/feature/frontend-map
+- `8fcbb54`: Merge remote-tracking branch 'origin/main' into feature/frontend-map
+- `0d981c4`: Merge pull request #6 from ur1el0/feature/navigation-api
+- `79148e6`: fix(backend): trust multiple port origins for local development CSRF
+- `348ba87`: fix(map): removed unused import for npm lint
+- `672fd80`: fix(frontend): remove duplicate inline homepage component
+- `7324349`: feat(frontend): integrate homepage routing and split-screen map styles
+- `08dca7b`: feat(frontend): implement homepage layout and map presentation
+- `265a0bf`: feat(frontend): create homepage container and route preview form
+- `7d7e3a7`: feat(frontend): create navigation api client helper
+- `e0ed93b`: feat(fontend): add reusable map container using leaflet
+
+### 📁 Gridy
+- `fad8720`: Merge pull request #4 from mikeandrei32/feature/gridy-communications
+- `63a6368`: fix(communications): resolve circular import and clean up misspelled serializer file
+- `09cacb1`: fix(communications): instantiate IsBarangayOfficial permission class
+- `0a21f89`: feat(communications): configure url routes for communications endpoints
+- `b29fb85`: feat(communications): viewsets with RBAC permission contrils
+- `31d284b`: fix(communications): serializer file name & import
+- `a4664be`: fix(config): initialize gridy_communications in configurations
+- `7aa09e9`: feat(communications): implement Announcement and ActivitySchedule serializers
+- `1399769`: feat(communications): define Announcement and ActivitySchedule models
+
+### 📁 github-repository-auditor
+- `36bd16f`: ci: update automated audit run schedule to 12:30 AM PHT
+- `652d076`: ci: use primary email for workflow commits to fix contribution attribution
+- `713aa9f`: Automated daily audit log
+- `1474e6e`: Automated daily audit log
+
