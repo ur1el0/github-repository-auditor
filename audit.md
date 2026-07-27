@@ -121,3 +121,20 @@
 - `7867058`: fix(navigation): correct route preview validation default
 - `e31fec8`: feat(navigation): add routing provider service:
 
+
+## Activity for 2026-07-27
+
+### 📁 github-repository-auditor
+- `1474e6e`: Automated daily audit log
+
+### 📁 Gridy
+- `fad8720`: Merge pull request #4 from mikeandrei32/feature/gridy-communications
+- `63a6368`: fix(communications): resolve circular import and clean up misspelled serializer file
+- `09cacb1`: fix(communications): instantiate IsBarangayOfficial permission class
+- `0a21f89`: feat(communications): configure url routes for communications endpoints
+- `b29fb85`: feat(communications): viewsets with RBAC permission contrils
+- `31d284b`: fix(communications): serializer file name & import
+- `a4664be`: fix(config): initialize gridy_communications in configurations
+- `7aa09e9`: feat(communications): implement Announcement and ActivitySchedule serializers
+- `1399769`: feat(communications): define Announcement and ActivitySchedule models
+
