@@ -172,3 +172,44 @@
 - `713aa9f`: Automated daily audit log
 - `1474e6e`: Automated daily audit log
 
+
+## Activity for 2026-07-28
+
+### 📁 Portfolio
+- `e6ec9ad`: docs: update about section
+- `702ae5a`: feat: add Swift to currently learning list in About section
+- `48726de`: feat: add Supabase and TypeScript to currently learning and Com tech stack
+- `f85652d`: feat: add Android Studio to Tools list in About section
+- `de54e24`: feat: add tech stacks, years, and clean up project card sections
+- `d8210d6`: feat: update projects, replace Lock-Ad-v2 with Lock-Ad-v3 and add Com
+
+### 📁 Gridy
+- `398c748`: Merge pull request #5 from mikeandrei32/feature/firebase-integration
+- `4049a83`: feat(services): trigger push notifications on document validation and queue advancement
+- `7b5e639`: feat(communications): implement send_notification_to_user multi-device dispatcher
+- `f93cb94`: feat(communications): register devices route in router
+- `277dc33`: feat(communications): implement FCMDeviceViewSet with duplicate token prevention
+- `de04f24`: feat(communications): implement FCMDeviceSerializer
+- `fb17f9d`: feat(communications): define FCMDevice model for registration tokens
+- `4a48376`: feat(communications): broadcast push notifications on new announcements
+- `c71054c`: feat(communications): implement fcm single device and topic broadcast services
+
+### 📁 github-repository-auditor
+- `d24ddf7`: Automated daily audit log
+- `36bd16f`: ci: update automated audit run schedule to 12:30 AM PHT
+- `652d076`: ci: use primary email for workflow commits to fix contribution attribution
+- `713aa9f`: Automated daily audit log
+
+### 📁 Lock-Ad-v3
+- `c8d4c73`: Merge branch 'feature/frontend-map'
+- `2e2ec59`: Merge pull request #7 from ur1el0/feature/frontend-map
+- `8fcbb54`: Merge remote-tracking branch 'origin/main' into feature/frontend-map
+- `0d981c4`: Merge pull request #6 from ur1el0/feature/navigation-api
+- `79148e6`: fix(backend): trust multiple port origins for local development CSRF
+- `348ba87`: fix(map): removed unused import for npm lint
+- `672fd80`: fix(frontend): remove duplicate inline homepage component
+- `7324349`: feat(frontend): integrate homepage routing and split-screen map styles
+- `08dca7b`: feat(frontend): implement homepage layout and map presentation
+- `265a0bf`: feat(frontend): create homepage container and route preview form
+- `7d7e3a7`: feat(frontend): create navigation api client helper
+
