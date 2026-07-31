@@ -281,3 +281,50 @@
 - `548ed9a`: Merge pull request #8 from mikeandrei32/feature/bulk-import-residents
 - `6a33fab`: test(auth): add unit test cases for bulk resident CSV import endpoint
 
+
+## Activity for 2026-07-31
+
+### 📁 Gridy
+- `89ef60f`: Merge pull request #12 from mikeandrei32/feature/gridy-communications
+- `2254d1d`: feat(communications): add composite index to announcements and test query order
+- `b44ebc0`: feat(services): add composite and single-field database indexes to core models
+- `2f15fe5`: Merge pull request #11 from mikeandrei32/feature/backend-testing
+- `75b4f4e`: test(services): add tests for dashboard summary permissions and logic
+- `67e6b75`: feat(services): route dashboard summary view to /dashboard/summary/
+- `9b48dca`: feat(services): implement dashboard analytics view class
+
+### 📁 ud-aj
+- `5df3d05`: fix: resolve map pin jumping when hovered
+- `b6af1b6`: fix: remove duplicate memory card captions on Us tab
+- `b55104b`: fix: sync modifications from data.js into IndexedDB on app load
+- `023a692`: refactor: separate Dashboard into views, components, modals, and hooks
+- `130f429`: refactor(ui): remove comments from memory cards and hide duplicate subtitle on Us tab
+- `89d1d50`: feat(milestones): assign May 10 memory to Whitebox Collective and update map pin
+- `41793db`: feat(milestones): add April 18 memory at The Matcha House and map surprise randoms
+- `3dea0dc`: fix(you): clean up deleted you_6 memory from local database on startup
+- `426629e`: feat(timer): display birthday countdown on You tab and hide banners on secondary tabs
+- `3644dcf`: fix(map): enable pointer-events and fallback handler for interactive date pins
+- `3b11982`: fix(audit): resolve ESLint hook errors, map pin badge markup, and state in effect warnings
+- `4056594`: feat(you): populate You tab carousel with 10 default photo memories and auto-sync
+- `9d49fa0`: fix(map): decouple Leaflet initialization from parent render loop using refs
+- `5cfbc7b`: fix(map): enable deep zoom level 19 and auto-fit bounds for Lucena City pins
+- `7624e99`: feat(map): update Lucena City locations for memory milestones
+- `2532126`: feat(map): integrate real interactive Lucena City map with milestone memory pins
+- `cdd8b74`: feat(map): add interactive memory map and purge all emojis in favor of SVG icons
+- `7a06bf4`: feat(auth): implement PasscodeGate lock screen with customizable passcode settings
+- `14a6551`: style(particles): replace text emojis with elegant glowing CSS/SVG bokeh shapes
+- `5b93d9c`: feat: implement June 2 collage grid and persistent audio playback when minimized
+- `cf6a860`: style(music): move player and minimized button position upwards to prevent nav overlay
+- `158945a`: refactor: remove everyday category, remove save feature, and rename anniversary to firstInteractionDate
+- `783cec7`: fix(dashboard): migrate legacy default to January 10, 2026
+- `66bbb12`: refactor(ui): update countdown label, fix settings avatar placeholder, and generalize comments to messages
+- `d9b1e0a`: feat(music): link music playlist to exact case-sensitive filenames of imported MP3s
+- `955e6a1`: fix(music): pass null to audio element src attribute when uninitialized
+- `15195ea`: fix(dashboard): update IndexedDB stale asset detector to clear legacy un-nested image paths
+- `56af3fa`: feat(music): re-implement HTML5 audio player with seek bar, volume control, and fallback handling
+- `243c0bf`: feat(data): update track definitions to local mp3 paths with stream fallbacks
+- `da25d29`: fix(music): set Spotify iframe height to 152px for modern embed widget rendering
+
+### 📁 github-repository-auditor
+- `5c80dfe`: Automated daily audit log
+
