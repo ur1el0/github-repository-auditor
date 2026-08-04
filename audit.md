@@ -409,3 +409,30 @@
 - `307e0ff`: Merge pull request #14 from mikeandrei32/feature/backend-testing
 - `8d4e503`: feat(config): integrate celery and redis asynchronous task queue
 
+
+## Activity for 2026-08-04
+
+### 📁 Gridy
+- `a8b1203`: Merge pull request #17 from mikeandrei32/feature/gridy-openapi
+- `8ed1ca6`: docs(openapi): add compiled openapi schema yml file
+- `be2b1ee`: Merge pull request #16 from mikeandrei32/feature/gridy-openapi
+- `c9d7b94`: feat(auth): annotate registration, profiles, and csv imports views
+- `4adae04`: feat(communications): resolve spectacular paths for device tokens querysets
+- `8e06e32`: feat(services): annotate views and serializers for swagger documentation
+- `9c52a8b`: feat(config): integrate drf-spectacular settings and routing paths
+- `c4aa27a`: feat(audit): implement administrative audit logging for validations and queue ticketing
+- `d4dfe53`: docs(adr): document system baseline, httponly cookie auth, and openapi specifications
+- `e9e97b4`: chore(repo): untrack sqlite binary and configure gitignore overrides
+- `cb52330`: fix(services): prevent clients from spoofing initial request or report status on creation
+- `60c72a6`: fix(audit): clean up unused imports, typos, readme references, and reports permissions
+- `6e64b37`: fix(communications): restrict fcm device token viewing and retrieval to owner or official
+- `4c346d5`: fix(services): restrict queue ticket viewing and updates to user owner or official
+- `fc506df`: fix(services): restrict document request modifications to barangay officials
+
+### 📁 Swift-Portfolio
+- `5f416bd`: feat: added cv & portfolio with tech stack, participations & social links
+- `981f078`: Initial commit
+
+### 📁 github-repository-auditor
+- `a53b7dd`: Automated daily audit log
+
