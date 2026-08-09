@@ -518,3 +518,28 @@
 - `4a3ca60`: fix(auth): secure login flow with HttpOnly cookies
 - `e611e2f`: feat(services): implement document requests list view and api integration
 
+
+## Activity for 2026-08-09
+
+### 📁 Lock-Ad-v3
+- `934c9ba`: Merge pull request #10 from ur1el0/feature/frontend-safety-overlay
+- `3386026`: feat(safety): integrate map overlay for safety signals and incidents
+- `ff2c941`: Merge pull request #9 from ur1el0/feature/safety-api
+- `3892421`: feat(safety): implement bounded api endpoints and routing
+- `2a02cff`: feat(safety): implement model serializers for api
+
+### 📁 Gridy
+- `5bbe5e5`: Merge pull request #24 from mikeandrei32/feature/communications-ui
+- `80e5a50`: feat(layout): register communications routes and update sidebar navigation
+- `f41cfd5`: feat(ui): implement activity schedules dashboard and creation modal
+- `65569fe`: feat(ui): implement announcements dashboard and broadcast modal
+- `c0cbbf7`: feat(ui): implement issue reports dashboard with slide-over and image lightbox modals
+
+### 📁 Com
+- `e682e76`: Merge pull request #4 from ur1el0/feature/subject-management
+- `479a480`: feat(dashboard): add ability to delete subjects
+- `6de9a77`: style(dashboard): list user subjects using useSubjects hook
+
+### 📁 github-repository-auditor
+- `54463ec`: Automated daily audit log
+
