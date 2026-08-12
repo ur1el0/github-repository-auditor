@@ -632,3 +632,23 @@
 - `fe1b71e`: chore(frontend): update vite proxy target to backend port 8001
 - `1a2873f`: fix(navigation): reduce ORS avoid polygon radius and handle 404 gracefully
 
+
+## Activity for 2026-08-12
+
+### 📁 Gridy
+- `a04ad6f`: Merge pull request #34 from mikeandrei32/feat/observability
+- `65d9890`: feat(ops): implement local observability stack with prometheus and grafana
+- `8ddf80a`: Merge pull request #33 from mikeandrei32/docs/docs-setup
+- `0e1f472`: Merge branch 'main' into docs/docs-setup
+- `bd99042`: docs(core): update readme and env with latest features and configurations
+- `4c223f0`: Merge pull request #32 from mikeandrei32/feature/pdf-generation
+- `c9008c3`: fix(auth): disable verification when parsing already-blacklisted old refresh token in custom rotation view
+- `9f6d1bf`: fix(tests): correct remaining indentation error in tests.py
+- `abb31b9`: Merge pull request #31 from mikeandrei32/feature/pdf-generation
+- `8441827`: fix: bump ci node version and fix test indentation
+- `02bb52e`: Merge pull request #30 from mikeandrei32/feature/pdf-generation
+- `2862bb5`: feat(auth): configure email backend and celery tasks for user registration
+
+### 📁 github-repository-auditor
+- `9778875`: Automated daily audit log
+
