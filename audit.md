@@ -805,3 +805,40 @@
 - `378c981`: feat: implement main profile UI and styling
 - `c4dd736`: chore: initialize gitignore with project instructions and context
 
+
+## Activity for 2026-08-17
+
+### 📁 Com
+- `e8d364f`: Merge pull request #8 from ur1el0/refactor/dashboard-components
+- `460c53a`: refactor(dashboard): compose modular panels in DashboardPage
+- `da302e5`: refactor(dashboard): create CalendarPanel component with encapsulated events state
+- `f3c7677`: refactor(dashboard): create AssignmentsPanel component with encapsulated UI state
+- `555ab5b`: refactor(hooks): export database row and update types from useAssignments and useEvents
+- `9e512ed`: chore: add .agents to .gitignore
+- `44a0660`: refactor(dashboard): extract Notes UI and state into NotesPanel component
+- `ace9f49`: refactor(dashboard): extract Notes UI and state into NotesPanel component
+- `a383c04`: refactor(dashboard): extract Subjects UI and state into SubjectsPanel component
+
+### 📁 github-repository-auditor
+- `bbd79c1`: Automated daily audit log
+
+### 📁 Gridy
+- `88ccec8`: Merge pull request #38 from mikeandrei32/feature/resident-verification
+- `b063961`: fix(backend): correct Resident.object typo to Resident.objects in dashboard summary
+- `dd9e078`: fix(backend): remove conflicting duplicate migration file
+- `ca153b6`: fix(frontend): resolve strict ts compilation errors
+- `524d0c5`: fix(backend): resolve auth import error and add missing resident migrations
+- `e3dcf07`: feat(routing): integrate verification page into main router and restore admin layout sidebar
+- `a02a397`: test(ui): add vitest coverage for resident verification page and update npm scripts
+- `cc0acde`: feat(ui): implement resident verification data table and logic
+- `5bb5a2e`: Merge branch 'main' into feature/resident-verification
+- `975f1fd`: Merge pull request #37 from mikeandrei32/feature/frontend-init
+- `a3a3a32`: Merge branch 'main' into feature/frontend-init
+- `0a19b63`: feat(auth): add is_verified and guardian fields to resident model
+- `124f62c`: feat(auth): add is_verified and guardian fields to resident model
+- `a1c31ae`: feat(ui): add AdminLayout, Sidebar component, and navigation assets
+- `63ca914`: feat(services): implement purok tracking and demographic age analytics
+
+### 📁 Lock-Ad-v3
+- `008ecfd`: Merge pull request #13 from ur1el0/refactor/system-audit
+
