@@ -842,3 +842,91 @@
 ### 📁 Lock-Ad-v3
 - `008ecfd`: Merge pull request #13 from ur1el0/refactor/system-audit
 
+
+## Activity for 2026-08-18
+
+### 📁 Gridy
+- `84b235e`: fix(favicon): apply system title and icon
+- `c91e105`: Merge pull request #40 from mikeandrei32/feature/live-queue-dashboard
+- `cec311c`: fix: include missing queue ticket database migration for CI pipeline
+- `6755064`: Merge branch 'main' into feature/live-queue-dashboard
+- `092e0c8`: chore: remove project reference
+- `23bc3ec`: chore: setup team AI agent rules and project context
+- `ff3bdbe`: feat: hook up live queue manual entry modal to API
+- `fe4fa9a`: fix: detach manual admin-issued tickets from Admin user account
+- `0874917`: feat: expose manual entry fields in QueueTicket serializer
+- `777d50b`: feat: add manual entry fields to QueueTicket model
+- `922c4d9`: fix: resolve failing CI tests for celery parameters and frontend element lookup
+- `0cd90f9`: refactor(backend): offload FCM push notifications to Celery background workers
+- `8e4138e`: feat: implement resident verification search, filtering, and rejection modal UI
+- `b032699`: test(auth): add resident rejection unit tests
+- `03f92be`: feat(auth): add resident rejection endpoint
+- `68e0d40`: Merge pull request #41 from mikeandrei32/feature/resident-verification-ui
+- `628da12`: fix: resolve failing CI tests for celery parameters and frontend element lookup
+- `4e0bbb6`: refactor(backend): offload FCM push notifications to Celery background workers
+- `80048c5`: feat: implement resident verification search, filtering, and rejection modal UI
+- `09c5f31`: test(auth): add resident rejection unit tests
+- `559ce54`: feat: add queue modal manual entry
+- `570a41b`: feat(auth): add resident rejection endpoint
+- `0274d4d`: Merge pull request #39 from mikeandrei32/feature/communications
+- `52c0299`: test(queue): update live queue test waiting list header text
+- `c3ae335`: test(queue): update live queue test to be case-insensitive
+- `c2c4c76`: Merge main into feature/communications and resolve conflicts
+- `7bc7b04`: refactor(ui): upgrade activity schedules to premium card layout with date highlights
+- `5a7b424`: refactor(ui): upgrade announcements table to responsive grid card layout
+- `53d62ee`: feat(ui): consolidate announcements and activities into single communications dashboard
+- `01118b6`: fix(communications): wrap FCM notification in try-except for graceful failure
+
+### 📁 OpenIT_Capstone
+- `0f82d21`: Merge pull request #1 from ur1el0/feature/backend-audit-fixes
+- `d9d635a`: feat: add health check endpoint and eliminate raw SQL schema migration
+- `4f89a56`: fix: enforce RBAC and prevent DTO-driven status overrides for applications
+- `c0675a4`: chore: include .AGENTS.md in ignore
+
+### 📁 Gridy
+- `84b235e`: fix(favicon): apply system title and icon
+- `c91e105`: Merge pull request #40 from mikeandrei32/feature/live-queue-dashboard
+- `cec311c`: fix: include missing queue ticket database migration for CI pipeline
+- `6755064`: Merge branch 'main' into feature/live-queue-dashboard
+- `092e0c8`: chore: remove project reference
+- `23bc3ec`: chore: setup team AI agent rules and project context
+- `ff3bdbe`: feat: hook up live queue manual entry modal to API
+- `fe4fa9a`: fix: detach manual admin-issued tickets from Admin user account
+- `0874917`: feat: expose manual entry fields in QueueTicket serializer
+- `777d50b`: feat: add manual entry fields to QueueTicket model
+- `922c4d9`: fix: resolve failing CI tests for celery parameters and frontend element lookup
+- `0cd90f9`: refactor(backend): offload FCM push notifications to Celery background workers
+- `8e4138e`: feat: implement resident verification search, filtering, and rejection modal UI
+- `b032699`: test(auth): add resident rejection unit tests
+- `03f92be`: feat(auth): add resident rejection endpoint
+- `68e0d40`: Merge pull request #41 from mikeandrei32/feature/resident-verification-ui
+- `628da12`: fix: resolve failing CI tests for celery parameters and frontend element lookup
+- `4e0bbb6`: refactor(backend): offload FCM push notifications to Celery background workers
+- `80048c5`: feat: implement resident verification search, filtering, and rejection modal UI
+- `09c5f31`: test(auth): add resident rejection unit tests
+- `559ce54`: feat: add queue modal manual entry
+- `570a41b`: feat(auth): add resident rejection endpoint
+- `0274d4d`: Merge pull request #39 from mikeandrei32/feature/communications
+- `52c0299`: test(queue): update live queue test waiting list header text
+- `c3ae335`: test(queue): update live queue test to be case-insensitive
+- `c2c4c76`: Merge main into feature/communications and resolve conflicts
+- `7bc7b04`: refactor(ui): upgrade activity schedules to premium card layout with date highlights
+- `5a7b424`: refactor(ui): upgrade announcements table to responsive grid card layout
+- `53d62ee`: feat(ui): consolidate announcements and activities into single communications dashboard
+- `01118b6`: fix(communications): wrap FCM notification in try-except for graceful failure
+
+### 📁 Lock-Ad-v3
+- `33b6298`: Merge pull request #14 from ur1el0/refactor/system-audit
+- `d2144ed`: feat: implement multi-container docker deployment architecture
+
+### 📁 github-repository-auditor
+- `35046d8`: Automated daily audit log
+
+### 📁 Com
+- `e8d364f`: Merge pull request #8 from ur1el0/refactor/dashboard-components
+- `460c53a`: refactor(dashboard): compose modular panels in DashboardPage
+- `da302e5`: refactor(dashboard): create CalendarPanel component with encapsulated events state
+- `f3c7677`: refactor(dashboard): create AssignmentsPanel component with encapsulated UI state
+- `555ab5b`: refactor(hooks): export database row and update types from useAssignments and useEvents
+- `9e512ed`: chore: add .agents to .gitignore
+
