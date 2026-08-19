@@ -930,3 +930,79 @@
 - `555ab5b`: refactor(hooks): export database row and update types from useAssignments and useEvents
 - `9e512ed`: chore: add .agents to .gitignore
 
+
+## Activity for 2026-08-19
+
+### 📁 Gridy
+- `da91bfd`: Merge pull request #46 from mikeandrei32/feature/hotfix-frontend-ui
+- `a794829`: fix(frontend): resolve unique key prop warnings and Vite CJS interop for websocket imports
+- `6407ec5`: Merge pull request #45 from mikeandrei32/feature/phase-5-observability
+- `4ea8998`: chore: mark Phase 5 as completed in project roadmap
+- `d0ba67f`: feat(backend): implement system health monitoring endpoint for DB and Cache
+- `a3108bd`: Merge pull request #44 from mikeandrei32/feature/phase-4-communications
+- `3e86bf0`: chore:mark Phase 4 as completed in roadmap
+- `16e2d0f`: feat(frontend): implement unified community announcements board
+- `e0b8cee`: feat(frontend): implement separated dashboards for issue reporting and triage
+- `af1bd75`: feat(backend): secure issue report API with queryset isolation and update urgency terminology
+- `2e92bf4`: Merge pull request #43 from mikeandrei32/feature/real-time-websockets
+- `460ee92`: fix(backend): fix InMemoryChannelLayer detection for pytest in CI
+- `639484e`: fix(backend): use InMemoryChannelLayer during tests to prevent CI connection errors
+- `b80f985`: feat(ui): migrate Live Queue to use reactive WebSockets instead of short polling
+- `4c79d73`: feat(services): implement QueueConsumer and broadcast ticket updates to WebSockets
+- `041a88f`: chore(backend): configure ASGI, Daphne, and Redis channel layers for WebSockets
+- `a44b4c3`: Merge pull request #42 from mikeandrei32/feature/live-queue-dashboard
+- `6596c9b`: fix(services): update dashboard and test logic for new document statuses
+- `2822904`: docs(architecture): establish PRD, design standards, and team rules
+- `2ca3747`: feat(services): support document lifecycle transitions and PDF generation
+- `7f76060`: feat(services): add PROCESSING and READY_FOR_PICKUP document statuses
+- `c61f231`: fix(favicon): apply system title and icon
+- `bfceac9`: docs(architecture): establish PRD, design standards, and team rules
+- `97f941b`: feat(services): add PROCESSING and READY_FOR_PICKUP document statuses
+- `55c022e`: feat(services): support document lifecycle transitions and PDF generation
+- `bcf61ae`: feat(services): add PROCESSING and READY_FOR_PICKUP document statuses
+- `84b235e`: fix(favicon): apply system title and icon
+- `c91e105`: Merge pull request #40 from mikeandrei32/feature/live-queue-dashboard
+- `cec311c`: fix: include missing queue ticket database migration for CI pipeline
+- `6755064`: Merge branch 'main' into feature/live-queue-dashboard
+
+### 📁 OpenIT_Capstone
+- `26a93b3`: feat(ui): add student demo login button to authenticate automatically
+- `e171f7c`: fix(cors): add secure protocol and re-enable credentials
+- `2dd3770`: chore(api): whitelist vercel production domain in CORS policy
+- `e3270f4`: feat: finalize phase 5 polish, comprehensive testing, and security hardening
+- `0f46f34`: Merge pull request #2 from ur1el0/feature/phase-5-polish
+- `c90f748`: fix(security): remove student role access from application status updates
+- `d883aa5`: docs: add initial project architecture, design, and PRD specifications
+- `2b15fc0`: test(backend): setup xUnit and add AuthServiceTests for password hashing validation
+- `446ccb1`: docs: generate initial JWT architecture decision record and finalize Phase 5 roadmap
+- `fe5bc6c`: refactor(ui): add ARIA roles and labels to ApplyModal for screen reader accessibility
+- `c52f884`: test(frontend): integrate Vitest/React Testing Library and add SectionHeader test
+- `0f82d21`: Merge pull request #1 from ur1el0/feature/backend-audit-fixes
+- `d9d635a`: feat: add health check endpoint and eliminate raw SQL schema migration
+- `4f89a56`: fix: enforce RBAC and prevent DTO-driven status overrides for applications
+- `c0675a4`: chore: include .AGENTS.md in ignore
+
+### 📁 github-repository-auditor
+- `a2a0a39`: Automated daily audit log
+
+### 📁 Gridy
+- `84b235e`: fix(favicon): apply system title and icon
+- `c91e105`: Merge pull request #40 from mikeandrei32/feature/live-queue-dashboard
+- `cec311c`: fix: include missing queue ticket database migration for CI pipeline
+- `6755064`: Merge branch 'main' into feature/live-queue-dashboard
+- `092e0c8`: chore: remove project reference
+- `23bc3ec`: chore: setup team AI agent rules and project context
+- `ff3bdbe`: feat: hook up live queue manual entry modal to API
+- `fe4fa9a`: fix: detach manual admin-issued tickets from Admin user account
+- `0874917`: feat: expose manual entry fields in QueueTicket serializer
+- `777d50b`: feat: add manual entry fields to QueueTicket model
+- `922c4d9`: fix: resolve failing CI tests for celery parameters and frontend element lookup
+- `0cd90f9`: refactor(backend): offload FCM push notifications to Celery background workers
+- `8e4138e`: feat: implement resident verification search, filtering, and rejection modal UI
+- `b032699`: test(auth): add resident rejection unit tests
+- `03f92be`: feat(auth): add resident rejection endpoint
+- `68e0d40`: Merge pull request #41 from mikeandrei32/feature/resident-verification-ui
+- `628da12`: fix: resolve failing CI tests for celery parameters and frontend element lookup
+- `4e0bbb6`: refactor(backend): offload FCM push notifications to Celery background workers
+- `80048c5`: feat: implement resident verification search, filtering, and rejection modal UI
+
