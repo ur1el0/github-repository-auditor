@@ -1006,3 +1006,54 @@
 - `4e0bbb6`: refactor(backend): offload FCM push notifications to Celery background workers
 - `80048c5`: feat: implement resident verification search, filtering, and rejection modal UI
 
+
+## Activity for 2026-08-20
+
+### 📁 Gridy
+- `98d9bd4`: Merge pull request #49 from ur1el0/feature/ui-placeholders-complete
+- `d2dd299`: refactor(ui): rename directory routes back to residents and fix api endpoint paths
+- `ec53e3b`: fix(ui): correct axios api route for resident directory to use auth namespace
+- `84c59b9`: fix(ui): correct routing path for pending resident verifications view
+- `6fdc11d`: feat(ui): build dedicated views for profile, settings, notifications and faqs
+- `bbcc4b2`: Merge pull request #48 from ur1el0/feature/hotfix-frontend-ui
+- `1a32a4c`: fix(queue): correct delete endpoint path and local state mutator
+- `376fac9`: fix(auth): correct malformed useEffect hook in resident directory
+- `59fe3fe`: fix(ui): correct react parse error in residents routing
+- `9c5e8a2`: chore(env): update backend entrypoint configuration
+- `41f3300`: Merge pull request #47 from ur1el0/feature/hotfix-frontend-ui
+- `19a9a5c`: feat(auth): build residents management directory ui and update sidebar navigation
+- `0d30209`: feat(auth): implement resident viewset and url routing for verified directory
+- `f822271`: feat(documents): build manual walk-in request modal for admin overrides
+- `f2b71bf`: feat(announcements): implement frontend deletion handler for admin broadcasts
+- `285fac5`: feat(queue): add deletion capability to history and notification feedback to controls
+- `3b2577b`: feat(ui): fix dashboard navigation links and configure header placeholder routes
+- `da91bfd`: Merge pull request #46 from mikeandrei32/feature/hotfix-frontend-ui
+- `a794829`: fix(frontend): resolve unique key prop warnings and Vite CJS interop for websocket imports
+- `6407ec5`: Merge pull request #45 from mikeandrei32/feature/phase-5-observability
+- `4ea8998`: chore: mark Phase 5 as completed in project roadmap
+- `d0ba67f`: feat(backend): implement system health monitoring endpoint for DB and Cache
+- `a3108bd`: Merge pull request #44 from mikeandrei32/feature/phase-4-communications
+- `3e86bf0`: chore:mark Phase 4 as completed in roadmap
+- `16e2d0f`: feat(frontend): implement unified community announcements board
+- `e0b8cee`: feat(frontend): implement separated dashboards for issue reporting and triage
+- `af1bd75`: feat(backend): secure issue report API with queryset isolation and update urgency terminology
+- `2e92bf4`: Merge pull request #43 from mikeandrei32/feature/real-time-websockets
+- `460ee92`: fix(backend): fix InMemoryChannelLayer detection for pytest in CI
+- `639484e`: fix(backend): use InMemoryChannelLayer during tests to prevent CI connection errors
+
+### 📁 github-repository-auditor
+- `48a7992`: Automated daily audit log
+
+### 📁 OpenIT_Capstone
+- `26a93b3`: feat(ui): add student demo login button to authenticate automatically
+- `e171f7c`: fix(cors): add secure protocol and re-enable credentials
+- `2dd3770`: chore(api): whitelist vercel production domain in CORS policy
+- `e3270f4`: feat: finalize phase 5 polish, comprehensive testing, and security hardening
+- `0f46f34`: Merge pull request #2 from ur1el0/feature/phase-5-polish
+- `c90f748`: fix(security): remove student role access from application status updates
+- `d883aa5`: docs: add initial project architecture, design, and PRD specifications
+- `2b15fc0`: test(backend): setup xUnit and add AuthServiceTests for password hashing validation
+- `446ccb1`: docs: generate initial JWT architecture decision record and finalize Phase 5 roadmap
+- `fe5bc6c`: refactor(ui): add ARIA roles and labels to ApplyModal for screen reader accessibility
+- `c52f884`: test(frontend): integrate Vitest/React Testing Library and add SectionHeader test
+
