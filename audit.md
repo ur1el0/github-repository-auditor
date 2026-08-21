@@ -1057,3 +1057,52 @@
 - `fe5bc6c`: refactor(ui): add ARIA roles and labels to ApplyModal for screen reader accessibility
 - `c52f884`: test(frontend): integrate Vitest/React Testing Library and add SectionHeader test
 
+
+## Activity for 2026-08-21
+
+### 📁 Gridy
+- `3de181c`: Merge pull request #50 from ur1el0/feature/ui-placeholders-complete
+- `67c2516`: fix(serializers): define explicit relation source for resident username and email
+- `7c32531`: fix(directory): serialize user credentials and prevent null crashes
+- `a77b8cb`: docs(architecture): update system gaps and feature backlog
+- `211cb8f`: chore(mobile): sync flutter configuration and dependencies
+- `2c80f86`: feat(queue): implement priority flag and express lane ordering
+- `6f31d9a`: feat(analytics): add demographic charts and fix age queries
+- `1abe2df`: test(mobile): add unit tests for auth models and widget tests
+- `00dcac4`: feat(mobile): integrate auth service into login screen
+- `76d864e`: feat(mobile): implement authentication services and api integration
+- `a34f05c`: feat(mobile): add authentication and user data models
+- `1a3e0a3`: feat(mobile): add network configuration, api client, and dependencies
+- `fe44a44`: feat(mobile): create login page UI and layout
+- `98d9bd4`: Merge pull request #49 from ur1el0/feature/ui-placeholders-complete
+- `d2dd299`: refactor(ui): rename directory routes back to residents and fix api endpoint paths
+- `ec53e3b`: fix(ui): correct axios api route for resident directory to use auth namespace
+- `84c59b9`: fix(ui): correct routing path for pending resident verifications view
+- `6fdc11d`: feat(ui): build dedicated views for profile, settings, notifications and faqs
+- `bbcc4b2`: Merge pull request #48 from ur1el0/feature/hotfix-frontend-ui
+- `1a32a4c`: fix(queue): correct delete endpoint path and local state mutator
+- `376fac9`: fix(auth): correct malformed useEffect hook in resident directory
+- `59fe3fe`: fix(ui): correct react parse error in residents routing
+- `9c5e8a2`: chore(env): update backend entrypoint configuration
+- `41f3300`: Merge pull request #47 from ur1el0/feature/hotfix-frontend-ui
+- `19a9a5c`: feat(auth): build residents management directory ui and update sidebar navigation
+- `0d30209`: feat(auth): implement resident viewset and url routing for verified directory
+- `f822271`: feat(documents): build manual walk-in request modal for admin overrides
+- `f2b71bf`: feat(announcements): implement frontend deletion handler for admin broadcasts
+- `285fac5`: feat(queue): add deletion capability to history and notification feedback to controls
+- `3b2577b`: feat(ui): fix dashboard navigation links and configure header placeholder routes
+
+### 📁 Lock-Ad-v3
+- `8dfb1e4`: Merge pull request #16 from ur1el0/feature/db-indexing
+- `2fa50fe`: perf(db): implement B-Tree indexing on geographic and status fields
+- `690ea16`: Merge pull request #15 from ur1el0/feature/a11y-audit
+- `e09b054`: refactor(frontend): implement semantic ARIA roles and accessibility fixes across core UI
+- `aef0177`: feat(frontend): refactor ReportModal with Tailwind v4, Lucide icons, and glassmorphism
+- `302597a`: fix(navigation): restrict route incident avoidance strictly to APPROVED hazards
+- `2bbf36e`: refactor(frontend): replace manual useEffect fetching with SWR in moderator dashboard
+- `888f4cd`: feat(core): implement CORS, rate limitting, pagination, caching, structured logging
+- `dc9a97d`: build: add django-cors-headers & django-redis for hardening
+
+### 📁 github-repository-auditor
+- `9b852cb`: Automated daily audit log
+
