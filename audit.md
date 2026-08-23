@@ -1172,3 +1172,22 @@
 - `821ebb4`: feat(ui): extract route planning into dedicated mobile page with bottom nav
 - `d256026`: feat(ui): add RouteContext for global route state management
 
+
+## Activity for 2026-08-24
+
+### 📁 Gridy
+- `eefee8b`: Merge pull request #53 from ur1el0/feature/dilg-multi-barangay-analytics
+- `b369d6e`: Merge branch 'main' into feature/dilg-multi-barangay-analytics
+- `771398f`: feat(analytics): add top hotspots by scenario chart to DILG dashboard
+- `aa89291`: feat(analytics): add scenario breakdown UI to Barangay dashboard
+- `6a115a5`: chore(backend): configure DILG permissions, serializers, and CORS settings
+- `3b01a6e`: feat(analytics): integrate multi-barangay scenario tracking for DILG superadmin
+- `5aeea15`: feat(analytics): add scenario breakdown and time-of-day metrics to barangay dashboard
+- `86b43d0`: feat(reports): add category and datetime tracking for scenario analytics
+- `0239de0`: feat: implement DILG analytics dashboard UI with conditional routing
+- `a542e3e`: feat: enforce multi-tenant data isolation across viewsets
+- `b04df7e`: feat: introduce Barangay multi-tenancy model and DILG_ADMIN role
+
+### 📁 github-repository-auditor
+- `f863636`: Automated daily audit log
+
