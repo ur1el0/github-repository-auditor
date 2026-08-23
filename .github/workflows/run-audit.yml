@@ -2,7 +2,7 @@ name: Daily Repo Audit
 
 on:
   schedule:
-    - cron: '30 16 * * *' # Runs at 16:30 UTC (12:30 AM PHT) every day
+    - cron: '0 10,22 * * *' # Runs at 10:00 UTC (6:00 PM PHT) and 22:00 UTC (6:00 AM PHT) every day
   workflow_dispatch:
 
 jobs:
