@@ -1197,3 +1197,55 @@
 ### 📁 github-repository-auditor
 - `844bdb2`: Automated daily audit log
 
+
+## Activity for 2026-08-25
+
+### 📁 Scrib
+- `8ebd4b3`: Merge pull request #6 from ur1el0/feature/mobile-dnd-ui
+- `2577bd0`: feat: add personal social links to footer and developer credit
+- `0462ce6`: feat: complete mobile responsive ui with drag and drop mechanics
+- `127bec0`: Merge pull request #5 from ur1el0/feature/true-scribbage-mechanics
+- `26664ba`: feat: true scribbage dice and wildcard scoring mechanics
+- `15b45f8`: Merge pull request #4 from ur1el0/feature/open-source-docs
+- `07ec6df`: Merge pull request #3 from ur1el0/feature/deploy-frontend
+- `8333ae2`: Merge pull request #2 from ur1el0/feature/deploy-backend
+- `0e116e9`: Merge pull request #1 from ur1el0/feature/init-backend
+- `a87a175`: chore: clean up git tracking, add favicon, and format README
+- `0b130f0`: docs: add open source documentation and templates
+- `8f4f2ea`: chore(frontend): configure vercel for SPA routing
+- `77a0240`: chore(backend): configure django for render production
+- `b04fe9f`: feat(frontend): implement UX caching and accessibility improvements
+- `2b618dd`: feat(backend): add rate throttling, health endpoint, and db indexing
+- `e043a77`: fix(frontend): disable auto-zooming on mobile
+- `8399ece`: feat(frontend): replace emoji with lucide-react icon
+- `02ff823`: feat(frontend): make ui responsive and ignore .env
+- `7e152e7`: fix(frontend): use import type for typescript interfaces
+- `7429442`: chore(frontend): untrack .env file
+- `7482c33`: chore: update root gitignore
+- `2c7478f`: chore(frontend): add vite default assets and config
+- `17c3b5d`: feat(frontend): implement interactive board and ui
+- `b268ff8`: feat(frontend): define shared typescript interfaces
+- `1caf0c8`: chore(frontend): setup tailwind css directives
+- `2c84b8a`: chore(frontend): add public assets
+- `b6c7467`: chore(frontend): setup html entrypoint
+- `298dff4`: chore(frontend): configure eslint
+- `7ce4802`: chore(frontend): configure typescript compiler options
+- `07e21c5`: chore(frontend): setup environment variables
+
+### 📁 Gridy
+- `7cee81b`: Merge pull request #55 from ur1el0/feature/barangay-settings
+- `7386675`: Merge pull request #54 from ur1el0/feature/pdf-generation
+- `59fe572`: feat(ui): integrate BarangaySettings page and navigation
+- `6c734ea`: feat(auth): register BarangayViewSet under /api/v1/auth/barangay/ routes
+- `bd54805`: feat(auth): implement secure multi-tenant BarangayViewSet for settings management
+- `7e424b1`: feat(ui): implement secure pdf blob download handler for document requests
+- `a3405dc`: fix(services): remove rogue xhtml2pdf context auto-import
+- `8686ce3`: fix(services): correct logical inversion and typos in pdf generation endpoint
+- `1da4a65`: feat(services): implement dynamic multi-tenant PDF generation for document requests
+- `2c5d74d`: feat(auth): expose multi-tenant identity fields in BarangaySerializer
+- `6f08b77`: feat(auth): expand Barangay model with multi-tenant identity fields for pdf generation
+- `784affc`: docs: update project README with mobile app and analytics features
+
+### 📁 github-repository-auditor
+- `8126c9a`: Automated daily audit log
+
