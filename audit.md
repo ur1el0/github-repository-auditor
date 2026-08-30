@@ -1472,3 +1472,34 @@
 ### 📁 github-repository-auditor
 - `82d2ffc`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `ed604fd`: Update seen AI deals database
+- `eb18a0e`: Update seen AI deals database
+
+### 📁 Gridy
+- `8b54ec6`: Merge pull request #80 from ur1el0/feature/mobile-schedule-screen
+- `a89e919`: test(mobile): add unit and widget test coverage for schedule feature
+- `e08bf6a`: feat(mobile-schedule): implement resident schedule screen matching reference UI and wire bottom navigation
+- `9f7a85d`: feat(mobile-ui): create calendar strip, appointment card, and event card widgets
+- `d267d17`: feat(mobile-data): enhance activity model and add schedule service with backend integrations
+- `9ebef68`: Merge pull request #79 from ur1el0/feature/frontend
+- `e6a3f6e`: fix(frontend): wrap application routes with AuthProvider to resolve context error
+- `91d002c`: Merge origin/main, accepting deletion of backend/gridy_auth/views.py
+- `a99aba7`: Merge pull request #78 from ur1el0/feature/toast-notifications
+- `47a97f8`: refactor(frontend): remove orphaned legacy DocumentRequests page
+- `87213d4`: fix(ui): remove unused import
+- `243d25d`: feat(ui): replace all blocking alert() calls with react-hot-toast notifications
+- `ab4a41e`: feat(ui): replace all blocking alert() calls with react-hot-toast notifications
+- `6adf6c9`: Merge pull request #77 from ur1el0/feature/security-audit-and-ui-polish
+- `075eac5`: docs: update development progress log and run commands reference
+- `a8efdd1`: feat(ui): add skeleton loaders and hover micro-animations to dashboard cards and charts
+- `f919f8f`: fix(dashboard): resolve UnboundLocalError by moving imports to module scope
+- `5c732a5`: fix(security): enforce multi-tenant data isolation and patch fatal query bugs across views
+- `21a0734`: fix(frontend): route activities link on dashboard to communications page
+- `fd41e80`: fix(services): restore missing demographics data to dashboard summary
+- `2563b98`: fix(dashboard): add missing total_residents to backend summary and safely handle undefined in react
+- `1a2ae80`: refactor(frontend): remove unused filter and more buttons from waiting list table
+
+### 📁 github-repository-auditor
+- `f81b5a1`: Automated daily audit log
+
