@@ -1581,3 +1581,44 @@
 ### 📁 github-repository-auditor
 - `a26ebd6`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `217c726`: Update seen AI deals database
+
+### 📁 Gridy
+- `3afe039`: Merge pull request #90 from ur1el0/feature/my-reports-screen-completion
+- `423e002`: ui(mobile): overhaul my issues screen with enterprise styling and image fallbacks
+- `6c99bc3`: feat(mobile): add navigation hook to report history
+- `7b80b59`: Merge pull request #89 from ur1el0/feature/under-18-guardian-constraint
+- `dd0916f`: feat(mobile): conditionally render guardian ID field for minors
+- `7384ba6`: feat(mobile): add guardian_id to registration payload
+- `f5cd59d`: feat(auth): enforce guardian constraint for minors during registration
+- `31a2835`: Merge pull request #88 from ur1el0/feature/demographics-profile-fixes
+- `85d1de0`: test: fix register screen hint text assertion to match actual UI
+- `e6ca9db`: test: update register screen test for new demographic fields
+- `456ef15`: fix: remove unused _showProfileModal dead code
+- `065a1d6`: fix: remove unused _showProfileModal dead code
+- `77900d9`: fix: remove unused imports, dead code, and replace deprecated activeColor
+- `e0ba842`: fix: remove unused imports, dead code, and replace deprecated activeColor
+- `1b0e77e`: test: update register screen test for demographic fields
+- `4fab9d9`: fix: handle DRF pagination in hotline and push notification services
+- `202de2d`: fix: extract results array from DRF paginated response in DocumentService
+- `2657d51`: feat: bypass login screen when stored token exists
+- `b406a8e`: feat: add barangay payload to User interface in AuthContext
+- `37073ce`: chore: add issue_reports to gitignore
+- `a74cca0`: feat: add profile screen with edit mode and wire dashboard avatar navigation
+- `95d3a61`: feat: add birth date picker, voter status toggle, and contact number to registration
+- `dfad966`: feat: add required demographics to register and add updateProfile method
+- `9aaa947`: feat: enable writable nested profile updates in UserSerializer
+- `04f9094`: fix: handle DRF pagination wrapper in sessions fetch
+- `1264b9c`: refactor: remove decorative barangay hall image from admin dashboard
+- `f07ee06`: fix: correct hotline API endpoint paths
+- `639e0f2`: fix: correct EmergencyHotlineSerializer base class and Meta typo
+- `030969c`: fix(mobile): resolve drf pagination crash in document service
+
+### 📁 Scrib
+- `e663fa3`: Merge pull request #12 from ur1el0/fix/mobile-layout
+- `673c934`: fix(frontend): position input above grid to prevent keyboard overlap on mobile
+
+### 📁 github-repository-auditor
+- `22ca27a`: Automated daily audit log
+
