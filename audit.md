@@ -1659,3 +1659,23 @@
 ### 📁 github-repository-auditor
 - `b91c7e3`: Automated daily audit log
 
+### 📁 Gridy
+- `a6e5c90`: Merge pull request #93 from ur1el0/feature/bulletin-feed
+- `638c418`: feat(mobile): wire metric summary cards on Dashboard to Bulletin and Documents screens
+- `53fedba`: feat(mobile): create dedicated Barangay Bulletin screen for announcements
+- `4ef4401`: feat(mobile): wire metric summary cards on Dashboard to Bulletin and Documents screens
+- `308e5a1`: feat(mobile): create dedicated Barangay Bulletin screen for announcements
+- `ace736f`: feat(mobile): add interactive ticket request modal and FAB to QueueScreen
+- `e0f8f85`: feat(mobile): implement null-aware payload in QueueService.requestTicket
+- `290fda0`: Merge pull request #92 from ur1el0/feature/admin-system-modules
+- `9bd236e`: fix(mobile): resolve deprecated DropdownButtonFormField value syntax
+- `4dddc86`: feat(admin): integrate live FAQ and notification endpoints into React dashboard
+- `b5d1579`: feat(backend): expose REST endpoints for FAQs and admin notifications
+- `b1730a3`: feat(backend): add persistent FAQ and AdminNotification models
+
+### 📁 opportunity-sniper
+- `d71d5db`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `90ced65`: Automated daily audit log
+
