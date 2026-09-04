@@ -1679,3 +1679,42 @@
 ### 📁 github-repository-auditor
 - `90ced65`: Automated daily audit log
 
+
+## Activity for 2026-09-05
+
+### 📁 opportunity-sniper
+- `a52fda2`: Update seen AI deals database
+
+### 📁 Portfolio-v2
+- `1d021da`: fix(deploy): add vercel.json with legacy peer deps install command
+- `b2bd47f`: refactor(skills): consolidate technical skills badges to core high-signal stack
+- `b26e987`: chore: ensure clean working state for deployment
+- `aa0841a`: feat(cv-sync): align projects, education, technical skills, and metrics with official cv
+- `e1f5e5a`: fix(typography): format case study article headings, paragraph spacing, and list bullet styles
+- `2347046`: feat(skills): add javascript to lock-ad project tech stack and global skills list
+- `11a183e`: Merge pull request #2 from ur1el0/feature/layout-typography-enhancements
+- `3da606a`: fix(ui): resolve jsx tags and scale project card title and body font sizes
+- `81d11bc`: feat(ui): update header navigation font sizing and linktree icon alignment
+- `b2a6819`: style: expand container width and update global typography variables
+- `6c69805`: Merge pull request #1 from ur1el0/feature/portfolio-baseline
+- `ab514bc`: docs: add Flutter and core technical certifications to landing page
+- `bf11c37`: feat: add UI components, landing page, and dynamic project case study routes
+- `1b30baf`: docs: add content schemas and project case study markdown files
+- `ff87412`: chore: add build outputs to gitignore and sync public assets
+- `6a6aa15`: feat: add src/content.config.ts using modern glob loader schema
+- `fec5e32`: refactor: use ClientRouter in BaseLayout for Astro v7
+- `57213ac`: feat: setup BaseLayout with ViewTransitions and HSL global design system
+- `8fc73b9`: chore: initialize Astro, Tailwind CSS, and TypeScript baseline configuration
+- `5c81683`: feat: define content collection Zod schema in src/content/config.ts
+- `4878e3f`: fix: update transitions import to ViewTransitions for Astro 4.x
+- `b912651`: docs: add Gridy and Scrib project case study content
+- `b218529`: feat: add BaseLayout with ambient spotlight and view transitions
+- `0040f45`: style: add global CSS declarations and custom scrollbars
+
+### 📁 Portfolio
+- `8f7925d`: feat(projects): add Gridy & Scrib projects, update Lock-Ad info, and add live demo links
+- `e66ee3b`: feat(projects): add liveHref support and Live Demo action button to ProjectCard
+
+### 📁 github-repository-auditor
+- `c8e5631`: Automated daily audit log
+
