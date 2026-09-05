@@ -1718,3 +1718,40 @@
 ### 📁 github-repository-auditor
 - `c8e5631`: Automated daily audit log
 
+### 📁 Gridy
+- `33b407a`: Merge pull request #97 from ur1el0/feature/mobile-field-official
+- `90b57ee`: feat(mobile): implement tier-based dashboard routing and executive admin screen
+- `23e2c3d`: fix(mobile): enable cleartext traffic and configure 127.0.0.1 loopback for adb reverse
+- `c6861cd`: test(backend): add negative authorization tests for official request creation
+- `c4b4962`: feat(backend): restrict resident request creation to citizens and strip official resident privileges
+- `2778815`: feat(auth): configure multi-tier seed users and assign default barangay in seed command
+- `eaf196b`: test(mobile): add widget tests for field official screen operations
+- `4f06a40`: feat(mobile): implement field official service and enhance issue report model
+- `60026d0`: feat(mobile): add FIELD_OFFICIAL role detection and unit tests to UserModel
+- `99c96ee`: feat(backend): configure granular permissions across reports, documents, and queue viewsets
+- `e76a58f`: feat(auth): add FIELD_OFFICIAL role, migration, and granular rbac permissions
+- `6f62dd4`: Merge pull request #96 from ur1el0/feature/community-schedule
+- `e5b59f7`: docs(architecture): sync schema and api contracts for document purpose, activities, and hotlines
+- `3d2811e`: feat(frontend): add activity cancellation and toast notifications
+- `d5ef63f`: test(backend): add rbac and crud tests for activity schedule viewset
+- `085587d`: fix(mobile): handle paginated and unpaginated responses in schedule service
+- `95a58df`: chore: remove scratch files and ignore issue report uploads
+- `f2d694b`: Merge pull request #95 from ur1el0/feature/emergency-hotlines-directory
+- `e06ecc7`: fix(mobile): import announcements screen in dashboard
+- `7778b75`: fix(mobile): import AnnouncementsScreen on DashboardScreen
+- `00bf4ae`: Merge branch 'main' into feature/emergency-hotlines-directory
+- `9764a1a`: fix(mobile): use _selectedCategory for category dropdown initialValue
+- `ca19a87`: fix(mobile): correct category dropdown initialValue and wire My Reports navigation
+- `f90e03f`: feat(mobile): add emergency category filters, search, and national fallbacks to hotlines screen
+- `d182dca`: Merge pull request #94 from ur1el0/feature/document-request-pdf-workflow
+- `a4e8c3b`: feat(mobile): add purpose input to document request modal and update tests
+- `c890ee3`: feat(admin): display document purpose and resolve request ID mapping
+- `1a701e8`: feat(backend): add purpose field to DocumentRequest and update PDF clearance template
+- `c0d5745`: feat(auth): enforce active official login checks and optimize dashboard aggregation
+
+### 📁 opportunity-sniper
+- `ca6e917`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `9f0fc9c`: Automated daily audit log
+
