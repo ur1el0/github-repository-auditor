@@ -1907,3 +1907,22 @@
 ### 📁 github-repository-auditor
 - `7b9e825`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `d2cc4fc`: Update seen AI deals database
+- `f78939e`: Update seen AI deals database
+
+### 📁 Gridy
+- `77ea026`: Merge pull request #108 from ur1el0/feature/cloud-deployment
+- `57d9c76`: feat(backend): configure render build script and staticfiles compatibility
+- `f204215`: fix(frontend): add vercel rewrite manifest and correct auth refresh endpoint
+
+### 📁 Portfolio-v2
+- `b0ed276`: feat(ui): display app preview thumbnails, kickers, categorized credentials, and simplified footer
+- `59a0f91`: feat(case-studies): set solo developer role and kicker for lock-ad and scrib
+- `ff3bc4f`: chore(assets): update gridy and scrib with authentic application screenshots
+- `346bbcd`: feat(case-studies): adopt 5-part engineering report format across all projects
+- `91c2a10`: feat(content): configure schema with project kicker, image fields and add asset placeholders
+
+### 📁 github-repository-auditor
+- `fc7abb6`: Automated daily audit log
+
