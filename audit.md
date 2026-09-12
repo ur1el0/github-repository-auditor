@@ -1982,3 +1982,37 @@
 ### 📁 github-repository-auditor
 - `00ae106`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `1f5d108`: Update seen AI deals database
+- `592d82f`: Update seen AI deals database
+- `f5cc70d`: Update seen AI deals database
+
+### 📁 Gridy
+- `73f39c9`: Merge pull request #113 from ur1el0/chore/cleanup-and-docs-alignment
+- `7cf2fab`: chore(agents): align phases and incident notification rules with async_task
+- `3e9cc2f`: docs(architecture): document gridy_audit module and async_task daemon execution
+- `993f7a5`: docs(walkthrough): align container topology and async task guides with adr 009
+- `d0279c9`: chore(repo): remove obsolete prometheus config, test artifacts and harden gitignore
+- `6d3f8a1`: Merge pull request #112 from ur1el0/fix/production-security-and-contracts
+- `8d0929c`: fix(mobile): configure branded app name, launcher icons and bump build version
+- `f89a1dc`: Merge pull request #111 from ur1el0/fix/production-security-and-contracts
+- `675d0ea`: fix(mobile): add barangay jurisdiction dropdown and align auth portal boundaries
+- `1824d79`: fix(frontend): add dual-mode registration, role sidebar guard and api client bindings
+- `887c202`: fix(devops): add default gunicorn fallback to container entrypoint
+- `68505e1`: fix(backend): bind reverse proxy headers and dynamic frontend reset url
+
+### 📁 Fable-IOS
+- `c3b2868`: Merge pull request #2 from ur1el0/feature/system-design-spec
+- `788b6eb`: docs(prototype): add full prototype canvas overview to prototype_reference
+- `89cc581`: docs(prototype): add prototype_reference folder with 10 labeled screens and README catalog
+- `55059bf`: docs(prototype): align all 10 screens to updated figma prototype with asset-decoupled placeholders
+- `70e414c`: docs(rules): enforce automated feature branch commit and push with zero PR bloat
+- `411bdcb`: Merge pull request #1 from ur1el0/feature/system-design-spec
+- `39cc383`: docs(readme): index architectural feature plans in project structure
+- `37f9131`: docs(plans): add critical system design feature enhancement plans
+- `7c99128`: docs(design): specify asset-decoupled placeholder cover architecture
+- `acbf66e`: docs(arch): add critical system design specification with 5 essential pillars
+
+### 📁 github-repository-auditor
+- `bae3308`: Automated daily audit log
+
