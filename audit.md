@@ -2042,3 +2042,28 @@
 ### 📁 github-repository-auditor
 - `ea5d0b0`: Automated daily audit log
 
+
+## Activity for 2026-09-15
+
+### 📁 mov-to-mp4
+- `30451f4`: fix: split long phrases to prevent text overflow and lower vertical position
+- `dce7d52`: feat: update captions to strictly single-line compact format and add video burn-in
+- `400b873`: fix: remove HTML tags from SRT for clean CapCut compatibility
+- `1a5f263`: feat: add caption generator with highlighted IT jargon in SRT and ASS formats
+- `891b0cc`: refactor: clean up imports, unify defaults, add detailed comments and clarify requirements
+- `36b2301`: chore: update .gitignore
+- `fb5dc21`: docs: add MIT license
+- `9f34b8e`: feat: save converted videos to separate folder and update docs
+- `22a1e63`: fix: default to remux_only=True for lossless fast conversion
+- `efbf9c5`: feat: initial commit for MOV to MP4 converter
+
+### 📁 opportunity-sniper
+- `795e65e`: Update seen AI deals database
+- `e1ea025`: Update seen AI deals database
+
+### 📁 php-cases
+- `bd9d3e0`: initial commit
+
+### 📁 github-repository-auditor
+- `c1a5b8d`: Automated daily audit log
+
