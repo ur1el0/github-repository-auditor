@@ -2073,3 +2073,29 @@
 ### 📁 github-repository-auditor
 - `2c4ca49`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `529d71a`: Update seen AI deals database
+- `0936810`: Update seen AI deals database
+
+### 📁 Fable-IOS
+- `063a76d`: Merge pull request #3 from ur1el0/feature/fable-system-implementation
+- `d1be1e5`: feat(views): integrate auth flow views and wire living reading stats into shelf, reader, and profile
+- `336e12f`: feat(auth): add UserSession model and AuthManager state controller
+- `71b9847`: feat(persistence): add reader preference caching and reading session analytics logging
+- `035807d`: docs(rules): update agent protocol to allow PR integration and direct file edits
+- `8d64798`: docs: add live data sources and API integration strategy
+- `3f81ef9`: feat(ui): replace bitmap images with plain blank white placeholders
+- `21ce373`: feat(arch): migrate iOS frontend to native Xcode 16 project structure
+- `a203903`: docs: consolidate architectural specs and manuals into docs directory
+- `384b310`: fix(bundle): rename frontend to frontend.swiftpm for iOS app bundle structure
+- `a735eee`: docs: update runbook, rubric instructions, and README for frontend and backend paths
+- `43d824d`: fix(ui): correct reader pagination bounds and reset annotation state
+- `55cbf21`: fix(core): resolve ios17 onchange deprecation, asset build phase, and application support directory creation
+- `b41d4af`: feat(sync): add minimalist fastapi cloud sync pipeline with last write wins resolution
+- `7a80b26`: feat(views): integrate marginalia highlights, paginated book mode, and shelf quote deck
+- `466c980`: feat(engine): add pacing velocity tracker and audio speech synthesizer
+- `8ee8d8d`: feat(persistence): implement swiftdata and sqlite on-device persistence engine
+
+### 📁 github-repository-auditor
+- `2186ed3`: Automated daily audit log
+
