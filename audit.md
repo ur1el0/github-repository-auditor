@@ -2257,3 +2257,46 @@
 ### 📁 github-repository-auditor
 - `edb7137`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `294b786`: Update seen AI deals database
+- `9b23ce3`: Update seen AI deals database
+- `9faf907`: Update seen AI deals database
+
+### 📁 Gridy
+- `4e30d8b`: Merge pull request #121 from ur1el0/feat/document-request-deletion
+- `00ecd69`: fix(documents-ui): resolve onDelete prop destructuring in DocumentTable
+- `a0d7b0b`: test(frontend): add unit tests for DocumentTable deletion actions and event isolation
+- `1560d27`: feat(documents-ui): add inline delete button next to resolved status badges with safety prompt
+- `2796523`: test(services): add tests for document deletion permissions, status barriers, and audit logs
+- `24d31ab`: feat(services): enforce terminal status validation and audit logging for document deletion
+- `7ea4a71`: Merge pull request #120 from ur1el0/fix/admin-auth-credentials
+- `0bdc599`: feat(auth-ui): add universal username input and dual-identifier login labels
+- `2f997c0`: test(auth): add unit tests for admin username validation and dual-identifier login
+- `3e89315`: feat(auth): support explicit admin username, account activation, and dual-identifier login
+- `bc3ed17`: test(frontend): update registration and login assertions for username and dual-identifier
+- `0608d7a`: Merge pull request #119 from ur1el0/fix/db-connection-resilience
+- `08cbe41`: fix(db): enable connection health checks and force ipv4 hostaddr resolution
+- `fec32c1`: Merge pull request #118 from ur1el0/feature/residents-hub-and-announcements-media
+- `caea4c3`: fix(mobile): resolve unused local variables in auth models test
+- `4689666`: merge: sync latest mobile-token and model-parsing fixes from origin/main
+- `20b868c`: refactor(ui): clean up action button icon in admin dashboard
+- `d486b10`: fix(media): implement directory-aware media protection for mobile compatibility
+- `bdee215`: perf(api): bind base url to ipv4 loopback to eliminate dns resolution timeout
+- `caf4e71`: perf(db): enable persistent database connections to mitigate cloud database latency
+- `51455a7`: refactor(ui): remove static placeholder images, integrate AI declaration, and add RA guidelines to FAQ
+- `7445786`: feat(security): implement protected media view to secure RA 10173 sensitive uploads
+- `8618a23`: feat(auth): implement LGU admin passkey to secure official registration backdoor
+- `5229336`: refactor(ui): simplify bureaucratic citizen terminology and enforce RA 10173 consent
+- `4765dbf`: Merge pull request #117 from ur1el0/fix/mobile-token
+- `422bd13`: feat(web): update resident registration with PhilSys ID and residency proofs
+- `a3d6d2c`: Merge pull request #116 from ur1el0/fix/mobile-model-parsing
+- `e77eb7b`: test(mobile): add unit tests for cookie parsing and token refresh lifecycle
+- `c1c9d60`: fix(mobile): enhance token refresh, cookie extraction, and 401 error message sanitization
+- `0cf7a75`: fix(auth): support refresh token via payload and cookie in CustomTokenRefreshView
+
+### 📁 ur1el0
+- `d412ea8`: fix: update github tech stack count from 6 to 8
+
+### 📁 github-repository-auditor
+- `00f1135`: Automated daily audit log
+
