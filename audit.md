@@ -2402,3 +2402,56 @@
 ### 📁 github-repository-auditor
 - `37efa88`: Automated daily audit log
 
+### 📁 Fable-IOS
+- `0043665`: Merge pull request #8 from ur1el0/feature/live-data-and-button-wiring
+- `2adc42e`: docs: record catalog purge and cache limits
+- `f648663`: fix(ios): cap disk image cache usage
+- `f2d583b`: fix(backend): purge retired demo catalog on startup
+- `9222368`: docs: align live data and verification status
+- `51ca111`: fix(ios): make reader and authoring controls actionable
+- `d905a36`: feat(ios): scope account sync and offline state
+- `9f03b75`: feat(backend): resolve saved Gutenberg metadata by provider id
+- `31bd204`: fix(auth): persist and revoke bearer sessions
+- `6b3ebfb`: feat(backend): sync account reading statistics
+- `f49ebf1`: fix(backend): scope shelf sync to authenticated accounts
+- `9eec831`: fix(backend): require ownership for published stories
+- `ab061a2`: feat(backend): persist authenticated user profiles
+- `402d455`: fix(ios): preserve live genre values
+- `deaf7ff`: fix(ios): remove bundled demo catalog fallbacks
+- `dd6b7bc`: fix(ios): honor live provider statistics
+- `2ca4e01`: fix(backend): remove demo catalog and synthetic metrics
+- `00c2b3e`: feat(ios): fetch and cache live book chapters
+- `b1ac62f`: feat(content): serve live Gutenberg chapters on demand
+- `3c865e3`: docs: record live cover hardening
+- `26526c2`: fix: prioritize fetched official cover images
+- `6153efa`: fix: filter legacy demo media from live catalog
+- `351e8b0`: docs: log chapter progress and haptics
+- `ef6f5c0`: feat: add contextual reading haptics
+- `94741ab`: test: cover chapter progress decoding
+- `14655f1`: feat: persist chapter reading progress
+- `82c0976`: docs: log offline manga cache
+- `65243e5`: feat: cache manga panels for offline reading
+- `aa28516`: docs: log backend deployment hardening
+- `a141167`: test: stabilize backend config verification
+
+### 📁 Gridy
+- `2173c49`: Merge pull request #127 from ur1el0/feature/phase-50-dynamic-branding-atomic
+- `0f5b667`: Merge pull request #128 from ur1el0/fix/gridy-frontend-port-conflict
+- `6fff59f`: refactor: apply barangay palette across web UI
+- `4b3777c`: test: cover dynamic barangay web theme
+- `8205cf1`: feat: allow admins to set barangay theme
+- `2e983a3`: feat: hydrate barangay theme in auth context
+- `97f380c`: refactor: define barangay theme tokens
+- `c6ca34b`: test: cover barangay primary color API
+- `08ea5a5`: feat: expose barangay primary color
+- `99ef81a`: fix: avoid frontend port 80 conflict
+
+### 📁 leadhunter-privacy
+- `db154cc`: feat: add initial privacy notice in index.html
+
+### 📁 opportunity-sniper
+- `c80ed3d`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `b207553`: Automated daily audit log
+
