@@ -2693,3 +2693,49 @@
 ### 📁 github-repository-auditor
 - `4651620`: Automated daily audit log
 
+### 📁 Gridy
+- `fb2e00c`: Merge pull request #148 from ur1el0/feature/audit-ui-17-auth-context-fast-refresh
+- `e2d69b3`: test(auth): update context module imports
+- `0c1f366`: refactor(auth): separate auth hook from provider
+- `268e1e1`: Merge pull request #147 from ur1el0/feature/audit-ui-16-live-queue-effect-deps
+- `bc67301`: test(queue): verify polling interval cleanup
+- `b05163c`: fix(queue): stabilize ticket polling callback
+- `6121a4b`: Merge pull request #146 from ur1el0/feature/audit-ci-15-client-quality-gates
+- `c9ca2a4`: ci: run frontend lint and production build
+- `9c2d8e6`: Merge pull request #143 from ur1el0/feature/audit-priv-14-import-error-sanitization-pr
+- `2eb5561`: Merge pull request #145 from ur1el0/feature/lobby-queue-audio
+- `8c75701`: Merge pull request #144 from ur1el0/feature/audit-priv-14-import-error-sanitization
+- `cba6a51`: fix(queue): add missing volume toggle to fix TS build
+- `d09f23d`: fix(tests): adapt test for extracted dropdown and placeholder
+- `494686e`: feat(queue): implement Phase 51 auditory live queue dispatch and speech synthesis
+- `da6f93a`: fix(auth): reject case-insensitive duplicate import emails
+- `a16173f`: style(auth): clean resident import whitespace
+- `cfc7e39`: fix(auth): sanitize csv resident import errors and handle date fallbacks
+- `ad4873c`: refactor: extract UI primitives for TextField, FileUploadZone, and Button
+- `863d095`: Merge pull request #142 from ur1el0/feature/audit-priv-13-server-consent
+- `7ad207b`: feat(mobile): submit resident privacy consent
+- `61308cc`: feat(web): submit resident privacy consent
+- `e6f6e14`: test(auth): cover resident privacy consent
+- `075499c`: feat(auth): require and record resident privacy consent
+
+### 📁 mseuf-offline-ticketing
+- `c77bc3a`: Merge pull request #4 from ur1el0/feature/offline-ticketing-core
+- `e64295e`: chore: ignore local agent tooling state
+- `75b731a`: docs: align design guide typography
+- `341029d`: chore(backend): add Boost and Lerd project config
+- `a737328`: chore(scanner): add LAN Expo development setup
+- `b69a5e4`: fix(scanner): respect device safe areas
+- `ee48330`: fix(scanner): restore cached sessions and report API reachability
+- `7960f5c`: test(backend): cover offline ticket access and manifests
+- `11b2211`: fix(backend): correct gate manifest eager loading
+- `24c0ebf`: feat(demo): add isolated local presentation mode
+
+### 📁 opportunity-sniper
+- `a5a988e`: Update seen AI deals database
+
+### 📁 Portfolio-v2
+- `b22acd9`: docs(projects): update Scrib case study with CV details and architectural truth
+
+### 📁 github-repository-auditor
+- `6856c45`: Automated daily audit log
+
