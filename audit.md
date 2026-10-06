@@ -2792,3 +2792,53 @@
 ### 📁 github-repository-auditor
 - `f760c80`: Automated daily audit log
 
+
+## Activity for 2026-10-07
+
+### 📁 pdf-to-docx
+- `b818518`: fix: preserve PDF appearance in DOCX output
+- `07be75a`: fix: preserve PDF layout in DOCX conversion
+- `09e3ab3`: docs: add PDF to DOCX project guidance
+- `651deff`: feat: implement text-first PDF to DOCX conversion
+
+### 📁 mseuf-offline-ticketing
+- `a36ffd9`: docs: add presentation and roadmap guides
+- `7283364`: Merge pull request #10 from ur1el0/fix/scanner-wrong-gate-guidance
+- `5ebdc3b`: test(scanner): avoid requiring Node TypeScript stripping
+- `10cae3a`: fix(scanner): clarify offline gate rejections
+- `df79d24`: Merge pull request #9 from ur1el0/feature/offline-security-hardening
+- `a7ca156`: fix(scanner): keep offline scans moving during sync
+- `0639fe1`: Merge pull request #8 from ur1el0/feature/offline-security-hardening
+- `601380d`: docs(backend): document ticket revocation and token lifetime
+- `5b07460`: test(auth): cover bearer token expiry
+- `99d2968`: test(sync): cover stale manifest auditing
+- `faaf22e`: fix(auth): expire bearer tokens after 24 hours
+- `1d54911`: fix(scanner): tighten offline pass validation
+- `00629f0`: fix(sync): audit accepted stale manifests
+- `c2b39c4`: test(tickets): cover admin revocation workflow
+- `1ae4348`: feat(admin): add ticket revocation controls
+- `c0ae5cd`: feat(api): expose event ticket roster and revocation
+- `f2ad2e6`: feat(tickets): add audited revocation service
+- `6a7c864`: test(tickets): cover claimed pass secrecy
+- `ba94837`: fix(mobile): hide QR after ticket is claimed
+- `0f20c8f`: fix(api): hide claimed ticket pass secrets
+- `b4c15e4`: test(sync): cover unsupported override payloads
+- `761811d`: fix(sync): refuse unsupported scan overrides
+- `9ee6b5a`: fix(api): reject manual ticket overrides
+
+### 📁 opportunity-sniper
+- `f355de2`: Update seen AI deals database
+
+### 📁 Gridy
+- `266d432`: Merge pull request #154 from ur1el0/feature/web-design-token-adoption
+- `41953f9`: refactor(admin): use semantic design tokens in dashboard
+- `33857d0`: refactor(queue): use semantic design tokens
+- `83fd300`: refactor(frontend): use design tokens in shared controls
+- `4ed7a2b`: feat(frontend): add semantic design tokens
+- `b0de7c2`: Merge pull request #153 from ur1el0/fix/live-queue-audio-unlock
+- `9be4f3b`: test(queue): cover audio unlock and idle announcements
+- `a4c66fa`: fix(queue): unlock live queue audio announcements
+
+### 📁 github-repository-auditor
+- `2401aa1`: Automated daily audit log
+
