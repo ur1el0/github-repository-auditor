@@ -2895,3 +2895,42 @@
 ### 📁 github-repository-auditor
 - `c3ee485`: Automated daily audit log
 
+### 📁 Gridy
+- `9748603`: Merge pull request #159 from ur1el0/feature/adviser-approved-workflows
+- `f3901a1`: feat(queue): separate priority and regular waiting lanes
+- `3dcf5ba`: fix(queue): record call timestamps and enforce fair rotation
+- `b04803e`: docs: document approved service and demo workflows
+- `d19f248`: feat(mobile): support assistance and GCash reviews
+- `0fde842`: feat(web): add assistance and payment service flows
+- `9cad1f6`: security(seed): restrict demo data to confirmed local databases
+- `1b457e6`: feat(communications): share read-only public announcements
+- `8578b04`: feat(services): add aid and payment review APIs
+- `32b004f`: feat(services): add aid and payment workflow records
+
+### 📁 opportunity-sniper
+- `5b38c97`: Update seen AI deals database
+- `71fcb59`: Update seen scholarships database
+- `a5aa19b`: Update seen AI deals database
+
+### 📁 Lock-Ad-v3
+- `63070f9`: chore: update project files
+- `c5772b0`: Merge pull request #26 from ur1el0/docs-architecture-refresh
+- `002fcb8`: Merge pull request #25 from ur1el0/chore/project-onboarding-guidance
+- `7c7ad6a`: Merge pull request #24 from ur1el0/build/compose-readiness
+- `6e76171`: Merge pull request #23 from ur1el0/fix/navigation-approved-incident-avoidance
+- `be087fe`: Merge pull request #22 from ur1el0/feature/incident-image-ai-analysis
+- `87f0b49`: docs(architecture): refresh system guides
+- `7e0db19`: docs(project): add onboarding and coding guidance
+- `af2489c`: fix(security): restrict backend port to localhost
+- `7afc268`: docs(compose): document local and container setup
+- `b64bcae`: build(compose): harden environment and service readiness
+- `f1108f3`: fix(navigation): avoid approved incidents along route geometry
+- `cba7443`: docs(frontend): document backend websocket proxy
+- `e6831ee`: feat(safety): add moderated incident photo review
+- `f37bedd`: feat(safety): trigger AI vision analysis during incident report creation
+- `4c8c608`: feat(safety): add image and ai_analysis fields to IncidentReport
+- `25d5c42`: build(media): configure Pillow and media storage endpoints
+
+### 📁 github-repository-auditor
+- `69d6db0`: Automated daily audit log
+
