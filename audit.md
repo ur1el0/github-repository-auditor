@@ -3001,3 +3001,45 @@
 ### 📁 github-repository-auditor
 - `d9990ff`: Automated daily audit log
 
+
+## Activity for 2026-10-12
+
+### 📁 opportunity-sniper
+- `4453d4e`: Update seen AI deals database
+- `99b7ccf`: Update seen AI deals database
+
+### 📁 KapitBayan
+- `ad0347a`: Merge pull request #171 from ur1el0/fix/seed-users-command-safety
+- `84e9434`: docs: record M40 REV-05 push evidence
+- `0eaeb42`: fix(auth): address M40 review findings on resident preservation, barangay checks, and output redaction
+- `988dc4a`: fix(auth): harden seed_users command with collision safety, atomicity, and redacted credentials
+- `2b119a5`: Merge pull request #170 from ur1el0/feature/seed-users-command
+- `2ac904b`: feat(auth): add seed_users command for development role accounts
+- `a96e971`: Merge pull request #169 from ur1el0/fix/resident-registration-proof-required
+- `2f5e92d`: Merge pull request #168 from ur1el0/feat/resident-proof-profile-management
+- `e3a907d`: refactor(mobile): extract profile evidence widgets and strengthen touch targets and test coverage
+- `f153b72`: feat(auth): manage resident evidence documents and enforce retention invariant in mobile profile
+- `5c76789`: Merge pull request #165 from ur1el0/fix/page-level-create-dialog-accessibility
+- `44dedb0`: Merge pull request #164 from ur1el0/feat/seed-dilg-admin
+- `94cd031`: feat(frontend): extract page-level creation dialogs into feature components
+- `61665a6`: feat(auth): record barangay id and full uuid correlation identifier in rbi import audit logs
+- `6f680bf`: feat(auth): enforce barangay assignment on rbi import and document provenance adr
+- `2c4c3bf`: feat(auth): require registration proof and audit legacy rbi import provenance
+- `d603246`: fix(a11y): add walk-in dialog accessibility
+- `e8c3cb4`: fix(a11y): complete remaining dialog accessibility
+- `d28042f`: fix(ui): constrain manual queue dialog on short viewports
+- `3362cd9`: docs(a11y): audit registration zoom targets
+- `b27f5e5`: docs(a11y): audit conditional registration reflow
+- `d6bf737`: docs(a11y): audit minor guardian registration state
+- `8d3e1da`: docs(a11y): audit registration reflow at 320px
+- `a8d194e`: fix(a11y): clarify registration mode switch name
+- `2ccc39f`: docs(a11y): verify registration keyboard activation
+- `44633f4`: fix(a11y): expose verification disclosure state
+- `6e31558`: fix(a11y): expose required official affirmation
+- `1adaeb2`: docs(a11y): audit registration form control states
+- `cb4de51`: docs(a11y): verify registration jurisdiction label in browser
+- `63ab04a`: fix(a11y): label registration jurisdiction selector
+
+### 📁 github-repository-auditor
+- `67e24ad`: Automated daily audit log
+
