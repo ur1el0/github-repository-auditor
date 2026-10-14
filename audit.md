@@ -3110,3 +3110,41 @@
 ### 📁 github-repository-auditor
 - `80b2d62`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `1ae9ff5`: Update seen AI deals database
+- `958cf80`: Update seen AI deals database
+
+### 📁 KapitBayan
+- `13ce01e`: Merge pull request #221 from ur1el0/feature/mobile-searchable-barangay-select
+- `582b475`: test(mobile): update registration screen tests for searchable barangay selection
+- `ceef761`: refactor(mobile): integrate searchable barangay select field in registration details
+- `bfcb8ad`: feat(mobile): introduce searchable barangay select field bottom sheet widget
+- `82e50e7`: Merge pull request #220 from ur1el0/fix/post-merge-review-remediations
+- `0314380`: fix(services): normalize RA 11261 history checks
+- `32acbb9`: fix: close post-merge review gaps
+- `fa2c561`: feat(mobile): refresh resident UI with lightweight Material 3
+- `a18ff3e`: Merge pull request #218 from ur1el0/fix/android-release-api-url
+- `0b6a290`: Merge pull request #217 from ur1el0/feat/public-information-ai-navigator
+- `7314b79`: Merge pull request #216 from ur1el0/fix/m86-resident-views-integrity
+- `ee1ca3f`: Merge pull request #215 from ur1el0/fix/mobile-resident-data-integrity
+- `8d000d9`: Merge pull request #213 from ur1el0/feat/document-fee-assessment-provenance
+- `4e1c37b`: Merge pull request #212 from ur1el0/feat/resident-manual-epayment-ux
+- `456e6e4`: Merge pull request #211 from ur1el0/fix/m39-mobile-metadata-main-recovery
+- `5117499`: Merge pull request #210 from ur1el0/fix/m77-frontend-dependency-security-main
+- `84a3b25`: fix(payments): address M84 review findings
+- `5a6ed89`: fix(eval): preserve complete M5 runner
+- `2ac515d`: chore(eval): support isolated 60s M5 runs
+- `230a993`: fix(a11y): label resident filter and improve contrast
+- `e1c9e2f`: fix(web): keep resident views responsive and stateful
+- `f38c5c4`: fix(navigator): harden M5 privacy and retry contracts
+- `c3f7528`: feat(mobile): add resident Ask Barangay navigator
+- `aa364a5`: fix(frontend): restrict navigator retries to transient failures
+- `c6870be`: fix(communications): close navigator privacy review gaps
+- `a4a97a1`: fix(communications): resolve M87 review findings REV-16 through REV-19 for navigator M1
+- `f1e2bd7`: feat(web): add accessible Ask Barangay public information navigator drawer
+- `3f9a797`: feat(communications): implement public information ai navigator milestone 1 and review follow-up
+- `03784d8`: fix(mobile): enforce https production api base url and disable cleartext in release builds
+
+### 📁 github-repository-auditor
+- `1bd151f`: Automated daily audit log
+
