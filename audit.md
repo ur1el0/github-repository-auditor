@@ -3229,3 +3229,42 @@
 ### 📁 github-repository-auditor
 - `998416e`: Automated daily audit log
 
+### 📁 KapitBayan
+- `62e71f3`: Merge pull request #235 from ur1el0/docs/architecture-docs-governance
+- `1eddd7f`: chore(git): ignore local Vercel metadata
+- `76d7c18`: docs: refresh architecture and repository guidance
+- `f713252`: Merge pull request #234 from ur1el0/feat/field-staff-profile-management
+- `fcfe700`: Merge pull request #233 from ur1el0/feat/announcement-share-kit-ux-polish
+- `cd9b174`: feat(auth): add field official profile editing
+- `68d9fdf`: feat(ui): redesign announcement share kit with 1:1 square QR and short notice links
+- `a27c335`: feat(communications): add public announcement detail endpoint for short-route resolution
+- `ac866ff`: fix: repair throttle test and update mobile API host
+- `9b6dad8`: Merge pull request #232 from ur1el0/codex/fix-pii-cache-shared-throttles-20261016
+- `6f1b856`: Merge pull request #231 from ur1el0/codex/fix-mobile-production-api-host-20261016
+- `fc0d592`: Merge pull request #230 from ur1el0/feat/admin-field-staff-provisioning
+- `d965be0`: merge: sync staff provisioning PR with main
+- `39b5d68`: fix: preserve full navigator regression suite
+- `ae3cb03`: fix: 016-shared-database-api-throttling.md
+- `427fbed`: fix: pubspec.lock
+- `6de3b61`: fix: pubspec.yaml
+- `2439adb`: fix: schedule_service_test.dart
+- `94610b4`: fix: profile_evidence_test.dart
+- `d988e4d`: fix: dashboard_service_test.dart
+- `7f74b83`: fix: storage_service_test.dart
+- `c0a8aaa`: fix: storage_service.dart
+- `42940be`: fix: views.py
+- `6163631`: fix: test_navigator.py
+- `bd752e6`: fix: throttling.py
+- `b2cace4`: fix: 0017_apiratelimitwindow.py
+- `12f3fa6`: fix: onboarding.py
+- `239f5e3`: fix: test_throttling.py
+- `6ee181a`: fix: base.py
+- `1c5f267`: fix: models.py
+
+### 📁 opportunity-sniper
+- `62d94c9`: Update seen AI deals database
+- `e14ca87`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `b35e8d7`: Automated daily audit log
+
