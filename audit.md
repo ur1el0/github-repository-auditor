@@ -3188,3 +3188,44 @@
 ### 📁 github-repository-auditor
 - `d7ec616`: Automated daily audit log
 
+
+## Activity for 2026-10-16
+
+### 📁 KapitBayan
+- `0e6dec7`: Merge pull request #232 from ur1el0/codex/fix-pii-cache-shared-throttles-20261016
+- `d456237`: Merge pull request #231 from ur1el0/codex/fix-mobile-production-api-host-20261016
+- `eed9806`: Merge pull request #230 from ur1el0/feat/admin-field-staff-provisioning
+- `b96c7a2`: merge: sync staff provisioning PR with main
+- `32046a7`: fix: preserve full navigator regression suite
+- `c030d71`: fix: 016-shared-database-api-throttling.md
+- `3f1d73f`: fix: pubspec.lock
+- `b2b3a73`: fix: pubspec.yaml
+- `0a75875`: fix: schedule_service_test.dart
+- `6f6db3f`: fix: profile_evidence_test.dart
+- `18e2b21`: fix: dashboard_service_test.dart
+- `c329278`: fix: storage_service_test.dart
+- `754b20b`: fix: storage_service.dart
+- `e30b191`: fix: views.py
+- `15b99d8`: fix: test_navigator.py
+- `285a68a`: fix: throttling.py
+- `ca214ef`: fix: 0017_apiratelimitwindow.py
+- `66dc56a`: fix: onboarding.py
+- `133ab98`: fix: test_throttling.py
+- `c4c8f93`: fix: base.py
+- `3f352e5`: fix: models.py
+- `1114302`: fix: settings.py
+- `10d5d6d`: test(mobile): guard production API host selection
+- `2353a4a`: fix(mobile): point release API at active Render service
+- `0ecec44`: Merge pull request #229 from ur1el0/feat/web-ux-resilience-polish
+- `3978ea7`: feat(auth,admin): provision field officials from barangay settings
+- `1c93165`: Merge pull request #228 from ur1el0/fix/announcement-qr-responsive
+- `15e1448`: fix(ui): keep announcement QR share kit within dialog
+- `2592124`: feat(auth,admin): allow barangay admins to provision and manage field official staff
+- `c6b2ea5`: fix(frontend): add defensive truncation and layout resilience for long data
+
+### 📁 opportunity-sniper
+- `ce6e20b`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `998416e`: Automated daily audit log
+
