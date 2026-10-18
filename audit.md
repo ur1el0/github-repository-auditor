@@ -3359,3 +3359,45 @@
 ### 📁 github-repository-auditor
 - `8f84c22`: Automated daily audit log
 
+
+## Activity for 2026-10-19
+
+### 📁 KapitBayan
+- `2f93555`: Merge pull request #268 from ur1el0/fix/account-password-setup
+- `9e4e064`: fix(auth): separate invited account password setup
+- `2a63a9f`: Merge pull request #267 from ur1el0/fix/admin-registration
+- `16593aa`: feat(auth): allow barangay admins to invite peer admins
+- `6e9ece4`: Merge pull request #266 from ur1el0/fix/barangay-only-scope-no-dilg
+- `eea0139`: docs: record M95 PR and green CI status
+- `bd58bdb`: test: wait for announcement deep-link focus
+- `d8c227e`: docs: record M95 verification delivery
+- `299cc64`: feat: restore barangay-only scope and platform recovery
+- `dc70605`: Merge branch 'main' of https://github.com/ur1el0/KapitBayan into fix/barangay-only-scope-no-dilg
+- `04a9e59`: test(frontend): update admin review dashboard tests for official applications
+- `41bf1f1`: refactor(frontend): update admin review dashboard to handle official account applications
+- `deb8107`: test(frontend): update resident registration test suite assertions
+- `7af2e83`: refactor(frontend): update resident registration page auth navigation links
+- `abc3e10`: test(frontend): remove deprecated BarangayApplication unit tests
+- `1078767`: refactor(frontend): delete legacy BarangayApplication onboarding page
+- `f27714e`: test(frontend): add unit tests for OfficialRegistration component
+- `fee103b`: feat(frontend): add dedicated OfficialRegistration page without onboarding redirects
+- `f334d79`: refactor(frontend): update DILG admin navigation item label to Official Applications
+- `ae3d099`: refactor(frontend): remove new barangay onboarding callout from BarangaySelectField
+- `6bb1f08`: refactor(frontend): remove /register/barangay route from application router
+- `b14a5b2`: test(backend): ensure resident and official registration tests reflect updated onboarding flows
+- `ee640cb`: test(backend): update onboarding test suite to verify official account applications only
+- `fbeac49`: test(backend): update email branding test assertions for official approval templates
+- `d187cae`: refactor(backend): update notification tasks for approved official account applications
+- `dbe22b2`: refactor(backend): filter application viewset to official accounts and remove new barangay creation
+- `943a402`: refactor(backend): restrict BarangayApplicationCreateSerializer to official accounts with existing barangay
+- `73bb381`: refactor(backend): update BarangayApplication model constraints and choices for official registrations
+- `3a846d7`: Merge pull request #265 from ur1el0/fix/web-login-separated-entry
+- `cd65b30`: fix(web): separate resident and official sign-in
+
+### 📁 opportunity-sniper
+- `2b9ff09`: Update seen AI deals database
+- `5cdc5f0`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `88ac075`: Automated daily audit log
+
