@@ -3319,3 +3319,43 @@
 ### 📁 github-repository-auditor
 - `80ef9af`: Automated daily audit log
 
+### 📁 KapitBayan
+- `12e1d25`: Merge pull request #264 from ur1el0/fix/mobile-admin-resident-view-toggle
+- `3b3f117`: fix(mobile): remove admin resident view switch
+- `3bdb0a4`: Merge pull request #263 from ur1el0/docs/barangay-demo-flow
+- `0aaedd3`: docs: add barangay demo training flow
+- `6d91ea1`: Merge pull request #262 from ur1el0/docs/system-demo-brevo
+- `06b527a`: Merge pull request #261 from ur1el0/fix/password-reset-ignore-inactive-accounts
+- `5f2d747`: docs: add system demo flow and Brevo setup
+- `0c34257`: Merge pull request #260 from ur1el0/fix/mobile-push-listener-lifecycle
+- `807ceb4`: Merge pull request #259 from ur1el0/feat/resident-web-profile-settings
+- `5aac23a`: fix(mobile): dispose push listener on logout
+- `297bfc6`: fix(mobile): update shared push preference state
+- `3572136`: fix(mobile): route push taps through app navigator
+- `bda1f86`: fix(mobile): keep push service app-scoped
+- `26d380b`: fix(resident-web): avoid implying web enables push delivery
+- `4028ae6`: feat(residents): link resident profile settings
+- `f37d19b`: feat(residents): add profile settings route
+- `af93a73`: feat(residents): sync web profile changes into auth state
+- `1267f91`: feat(residents): add resident web profile settings
+- `8d6ab7e`: feat(residents): type resident profile settings
+- `ddb6efd`: test(auth): cover inactive duplicate reset email
+- `73c0037`: fix(auth): ignore inactive users in password reset lookup
+- `3792777`: Merge pull request #258 from ur1el0/fix/queue-next-resident-500
+- `a185309`: fix(queue): restore resident notification channel check
+- `5b6ba51`: Merge pull request #257 from ur1el0/fix/password-reset-email-delivery
+- `d4a2a25`: fix(email): support HTTPS delivery on Render free
+- `2f8e17a`: Merge pull request #256 from ur1el0/fix/resident-queue-notification-inbox
+- `84654a7`: fix(notifications): persist queue paging in resident inbox
+- `3caff91`: Merge pull request #255 from ur1el0/fix/fcm-device-token-recovery
+- `d3b9f6d`: fix(mobile): verify push device registration response
+- `08ad3fa`: fix(notifications): prune unregistered FCM tokens
+
+### 📁 opportunity-sniper
+- `d6fd922`: Update seen AI deals database
+- `2df6f29`: Update seen AI deals database
+- `ae77ac4`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `8f84c22`: Automated daily audit log
+
