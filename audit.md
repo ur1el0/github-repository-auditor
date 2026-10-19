@@ -3401,3 +3401,45 @@
 ### 📁 github-repository-auditor
 - `88ac075`: Automated daily audit log
 
+
+## Activity for 2026-10-20
+
+### 📁 opportunity-sniper
+- `6a27d05`: Update seen AI deals database
+- `07847c8`: Update seen AI deals database
+
+### 📁 KapitBayan
+- `827f3f0`: Merge pull request #277 from ur1el0/feat/admin-profile
+- `3983b45`: fix(mobile): recover notification loading
+- `59b67b8`: feat(frontend): implement profile picture upload and update admin layout avatar
+- `31d6ee0`: feat(auth): add profile picture field, serializer validation, and cleanup handlers
+- `c64b424`: style(frontend): adjust logo badge styling and update mobile dependencies
+- `663d6f5`: Merge pull request #276 from ur1el0/fix/barangay-registration-media
+- `994dc90`: fix(resident): improve onboarding and service workflows
+- `e0249c2`: Merge remote-tracking branch 'origin/fix/barangay-register' into fix/barangay-registration-media
+- `06402b2`: test(mobile): add widget and service tests for empty barangay list and registration rejection
+- `65ad78e`: feat(mobile): handle approved barangay empty state and propagate server validation errors
+- `8be2773`: test(auth): add unit and integration tests for barangay filtering and registration rejection
+- `a10729e`: feat(auth): enforce approved barangay check on resident registration and update seed fixtures
+- `677cbf7`: feat(auth): restrict public barangay directory to approved and active barangays
+- `7dbf2be`: Merge pull request #275 from ur1el0/fix/auth-import-audit-findings
+- `b97b5c3`: test(auth): scope resident import transaction failure
+- `971677c`: fix(auth): isolate resident import transaction patch
+- `cac6ecf`: fix(auth): bound resident CSV imports
+- `87fad24`: fix(auth): protect staff email identities
+- `f7b3df5`: fix(auth): reject ambiguous email sign-ins
+- `965248b`: fix(auth): throttle resident CSV imports
+- `0cc05b9`: Merge pull request #274 from ur1el0/feat/barangay-operator-support
+- `be74e9a`: feat(auth): restore Barangay Operator onboarding and recovery
+- `b1a247a`: Merge pull request #273 from ur1el0/ops/manual-production-migration-runbook
+- `67be56c`: ops(db): add guarded production migration workflow
+- `4b76c64`: Merge pull request #272 from ur1el0/fix/mobile-password-reset-email-link
+- `56ed32d`: fix(mobile): accept email password reset links
+- `670584f`: fix(aid): handle requests with erased requester accounts
+- `ebb0065`: fix(auth): accept DILG admin web sessions
+- `545f753`: Merge pull request #271 from ur1el0/feat/barangay-onboarding-verification
+- `a0842e1`: fix(onboarding): scope PostgreSQL row locks
+
+### 📁 github-repository-auditor
+- `775357e`: Automated daily audit log
+
