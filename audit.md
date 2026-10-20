@@ -3449,3 +3449,28 @@
 ### 📁 github-repository-auditor
 - `7cadb6b`: Automated daily audit log
 
+### 📁 OpenIT_Capstone
+- `6fdb82a`: chore(security): untrack frontend .env.development and add safe .env.example
+
+### 📁 opportunity-sniper
+- `f7830da`: Update seen AI deals database
+- `b6e337a`: Update seen AI deals database
+
+### 📁 KapitBayan
+- `0bc2b45`: Merge pull request #280 from ur1el0/fix/mobile-final-login-support-cleanup
+- `89fa243`: chore(mobile): bump version to 1.0.1+6 for android release build
+- `96e947d`: refactor(mobile): remove legacy support sheet from login screen
+- `b63bba9`: chore(mobile): bump version to 1.0.1+5 for android release build
+- `8b6cb47`: Merge pull request #279 from ur1el0/fix/mobile-report-image-resident-address
+- `d25abea`: fix(frontend): format purok with number prefix fallback in verification views
+- `9e5b033`: feat(mobile): display report photo in tanod field incident cards
+- `5c14409`: feat(mobile): add purok and address details to resident registration
+- `8c979d6`: feat(frontend): add purok and address inputs to registration and verification views
+- `51e5899`: feat(auth): require purok and add address details to resident model and registration api
+- `61bbb9b`: Merge pull request #278 from ur1el0/fix/resident-registration-verification-refresh
+- `0f170eb`: fix(residents): refresh pending verification queue
+- `fad2087`: fix(frontend): recover from failed screen chunks
+
+### 📁 github-repository-auditor
+- `f0108fb`: Automated daily audit log
+
