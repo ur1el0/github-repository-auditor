@@ -3550,3 +3550,59 @@
 ### 📁 github-repository-auditor
 - `c99a88d`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `c54813b`: Update seen AI deals database
+- `26e4fac`: Update seen AI deals database
+- `a1d72a2`: Update seen AI deals database
+
+### 📁 website-change-monitor
+- `a82553a`: Merge pull request #1 from ur1el0/feat/ppe-billing-guard
+- `f80ed2b`: docs: document PPE billing and release sequence
+- `4f04efe`: feat: add budget-aware webpage check billing
+
+### 📁 KapitBayan
+- `3735289`: Merge pull request #292 from ur1el0/fix/mobile-document-catalog-label-test
+- `c78dfec`: test(mobile): update document catalog labels
+- `5f85cb9`: fix(frontend): remove unused document catalog import
+- `3e60953`: fix(frontend): include optional queue action props in fixtures
+- `04cecc7`: fix(frontend): update document request dialog fixtures
+- `0df9a18`: style(mobile): use nullable ticket map entries
+- `3da0eaf`: style(mobile): use nullable catalog map entry
+- `e52971b`: style(mobile): clean up catalog analyzer warning
+- `8cbf711`: test(documents): match walk-in catalog fallback
+- `3790033`: fix(documents): resolve catalog integration checks
+- `a0898a8`: feat(documents): add barangay catalog and queue links
+- `416e5d9`: Merge pull request #287 from ur1el0/fix/clearance-pdf-assessment-box
+- `156ae37`: fix(pdf): simplify clearance assessment box
+- `8cd57fb`: Merge pull request #286 from ur1el0/fix/mobile-admin-console-toggle-20261021
+- `7e4da4e`: feat(mobile): add admin resident and document workflows
+- `50c324d`: chore(mobile): bump review APK version to 1.0.2+9
+- `3a65d55`: fix(mobile): translate executive console return action
+- `31d5337`: fix(mobile): add admin return to executive console
+- `5c3bdfe`: fix(mobile): align admin dashboard metrics and remove live queue shortcut
+- `04307cb`: Merge pull request #284 from ur1el0/fix/admin-notifications-auto-refresh
+- `4f1e388`: Merge pull request #283 from ur1el0/fix/mobile-admin-tagalog-persistence
+- `4e7fb0c`: test(i18n): cover web admin language after sign-in
+- `5b87495`: fix(i18n): translate dashboard retry state
+- `e3fe63f`: fix(i18n): translate dashboard appointments
+- `d3aa827`: fix(i18n): translate demographics charts
+- `e98c609`: fix(i18n): translate incident chart
+- `45c6a3c`: fix(i18n): translate dashboard metrics
+- `6b54c4a`: fix(i18n): translate admin dashboard
+- `a278963`: fix(i18n): retain language in admin shell
+- `2ec7500`: fix(i18n): translate admin sidebar
+
+### 📁 website-monitor-test
+- `b05856e`: Merge pull request #1 from ur1el0/ur1el0-patch-1
+- `2ee39ea`: Update title and description for version 2
+- `a608956`: Update title and description for version 2
+- `4a85658`: initial commit
+
+### 📁 shopify-inventory-alerts
+- `7b3a11c`: Merge pull request #4 from ur1el0/feature/foundation
+- `fed6f67`: fix: implement transactional webhook retry state machine
+- `4ceadea`: fix: upgrade Shopify Admin API and webhook version to 2026-10
+
+### 📁 github-repository-auditor
+- `8e69131`: Automated daily audit log
+
