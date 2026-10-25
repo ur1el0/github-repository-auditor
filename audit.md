@@ -3674,3 +3674,59 @@
 ### 📁 github-repository-auditor
 - `3ece80b`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `13d1707`: Update seen AI deals database
+- `6c8a977`: Update seen AI deals database
+
+### 📁 Portfolio-v2
+- `5091b51`: Merge pull request #9 from ur1el0/feature/portfolio-polish
+- `1e8c392`: fix: open certificates directly
+- `d3ec00d`: Merge pull request #8 from ur1el0/feature/portfolio-polish
+- `dacd972`: Merge remote-tracking branch 'origin/main' into feature/portfolio-polish
+- `c5119f7`: Merge pull request #7 from ur1el0/feature/visitor-location-accuracy
+- `665e77e`: feat: rate-limit visitor alert emails
+- `c51dc7f`: refactor: tighten portfolio copy and project cards
+- `cc94c11`: fix: shorten location alert labels
+- `8876c51`: fix: clarify IP-based visitor location alerts
+- `8e83b9b`: Merge pull request #6 from ur1el0/codex/identity-profile-accuracy
+- `cfd5011`: Merge pull request #5 from ur1el0/feature/security-hardening
+- `9a6ed63`: docs: align Scrib case study with tile solver
+- `68cd5bc`: Improve portfolio identity and search metadata
+
+### 📁 url-checker
+- `20ca8b4`: Merge pull request #3 from ur1el0/feat/monitoring-to-main
+- `a6a48bb`: Merge pull request #2 from ur1el0/feat/monitoring-roadmap
+- `35e9127`: Merge pull request #1 from ur1el0/feat/monitor-controls
+- `7d443ff`: docs: record owner monitoring design and operation
+- `439dc6e`: test: cover monitoring and alert delivery
+- `8c1e320`: feat: complete single-owner monitoring capabilities
+- `39cbc65`: feat: clarify paused monitor status
+- `40fe74f`: feat: add monitor controls and editing
+- `8924b82`: feat: bootstrap self-hosted URL checker
+
+### 📁 Fable-IOS
+- `8aaaf9d`: Merge pull request #9 from ur1el0/feature/live-data-and-button-wiring
+- `9d3cb55`: merge: reconcile live-data hardening with main
+- `b244802`: Merge pull request #10 from ur1el0/codex/live-media-and-reader
+- `c777bc9`: docs: record image and reader reliability fixes
+- `fdf2681`: fix(auth): preserve guest access without keychain
+- `e94bcc3`: fix(images): hide seeded art for provider stories
+- `b85514a`: fix(api): allow live catalog requests to finish
+- `f0c4112`: ci(ios): use simulator-ready macOS runner
+- `a8f5292`: ci(ios): use preinstalled simulator runtime
+- `d8bbb06`: ci(ios): run native app tests in pull requests
+- `a7f8979`: fix(reader): keep chapters readable inside Fable
+- `40dbf42`: fix(images): refresh remote images and provider fetches
+
+### 📁 OpenIT_Capstone
+- `6b7cdb5`: Merge pull request #3 from ur1el0/feature/security-artifacts-cleanup
+
+### 📁 Scrib
+- `6edf159`: Merge pull request #13 from ur1el0/feature/security-hardening
+
+### 📁 spotify_to_ytmusic
+- `e2664e9`: Merge pull request #1 from ur1el0/fix-spotify-api-items
+
+### 📁 github-repository-auditor
+- `6cbe85d`: Automated daily audit log
+
