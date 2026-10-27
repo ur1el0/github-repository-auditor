@@ -3760,3 +3760,63 @@
 ### 📁 github-repository-auditor
 - `c2c2277`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `3e93fd5`: Update seen AI deals database
+- `c77bc05`: Update seen AI deals database
+
+### 📁 KapitBayan
+- `de072cc`: Merge pull request #308 from ur1el0/feat/resident-payment-method
+- `1f14fad`: test(payments): align payment flows with resident choice
+- `b4f59c4`: feat(payments): let residents choose document payment method
+- `31418a8`: Merge pull request #307 from ur1el0/fix/activity-edit-action-alignment
+- `f610ff2`: fix(communications): align activity actions together
+- `1c207cb`: Merge pull request #306 from ur1el0/fix/tanod-verification-errors
+- `47597cf`: chore(release): prepare Android v1.0.6 documentation
+- `397eb4e`: fix(mobile): show actual Tanod verification errors
+- `f8e6ed9`: Merge pull request #305 from ur1el0/fix/issue-report-urgency
+- `82dd455`: fix(reports): honor resident-selected urgency
+- `5affde7`: Merge pull request #304 from ur1el0/feat/communications-update-actions
+- `f276364`: fix(communications): keep hotline modal props compatible
+- `d58754b`: feat(communications): add edit actions
+- `19ff8ba`: Merge pull request #303 from ur1el0/docs/update-android-release-1.0.5
+- `d78022e`: docs: update Android latest release link
+- `052c798`: Merge pull request #302 from ur1el0/chore/mobile-release-1.0.5
+- `aa6333e`: chore(mobile): bump release version to 1.0.5
+- `f36a252`: Merge pull request #301 from ur1el0/fix/document-or-validation
+- `537fbe4`: docs: document O.R. saving and field validation
+- `c30b2e4`: fix(documents): save and verify receipt numbers reliably
+- `8bb875c`: Merge pull request #300 from ur1el0/fix/resident-count-manual-refresh
+- `e4e2f82`: fix(residents): preserve retry state while retrying count
+- `232ce86`: fix(residents): show count loading on manual refresh
+
+### 📁 Fable-IOS
+- `a754d6b`: Merge pull request #12 from ur1el0/feature/reader-customization
+- `0809614`: feat(reader): add paper and midnight themes with rounded typography and live preview
+- `e1d6ecd`: Merge pull request #11 from fix/python39-compatibility
+- `845a9a5`: fix(auth): decompose auth view hierarchies to eliminate compiler timeout
+- `091a55b`: feat(ui): elevate writer drafting studio and floating glass hud
+- `427cf3b`: feat(ui): elevate explore discovery grid and creator profiles
+- `231266c`: feat(ui): elevate shelf reading stats and journal quote deck
+- `b1c964a`: feat(profile): enable in-app sign out, guest conversion, and isolated profile details editing
+- `c639163`: feat(ui): elevate auth screens with focus rings, touch targets, and sheet switching
+- `2dc1986`: feat(ui): elevate library editorial cards and dual-layer shadows
+- `d73b3f1`: feat(ui): implement floating frosted glass navigation pill
+- `f2b5c5e`: feat(shelf): reconcile cross-device shelf state across account logins
+- `3fea2b2`: fix(backend): pin exact dependencies and enable sqlite wal mode
+- `7381090`: fix(ios): route manga from shelf and genre views and polish reader ui
+- `909c2f0`: feat(backend): add security headers, sqlite fk pragmas, and error sanitization
+- `31299d8`: fix(library): constrain hero cover hit-testing and harden offline reading cache
+- `8098e87`: test(reader): verify multi-chapter reading progress persistence
+- `87111b8`: fix(reader): persist and restore chapter, page, and scroll reading progress
+- `0c848a0`: test(catalog): verify auto-summary stripping and direct panel filtering
+- `578836d`: fix(reader): remove synopsis fallback in manuscript reader and sync live chapters
+- `19aea71`: fix(catalog): hydrate real book chapters and exclude titles without readable content
+- `09e4c62`: test(backend): ensure repo root in sys path for direct pytest invocations
+- `00e6d9d`: fix(auth): support python 3.9 type annotations in rate limiter
+
+### 📁 ur1el0
+- `ef62595`: Merge pull request #1 from ur1el0/docs/identity-overview-2026
+
+### 📁 github-repository-auditor
+- `ad14c03`: Automated daily audit log
+
