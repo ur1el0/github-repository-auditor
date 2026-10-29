@@ -3839,3 +3839,20 @@
 ### 📁 github-repository-auditor
 - `9e2bc5d`: Automated daily audit log
 
+### 📁 opportunity-sniper
+- `10e97fc`: Update seen AI deals database
+
+### 📁 Fable-IOS
+- `4392a2a`: Merge pull request #14 from ur1el0/codex/close-production-audit-gaps
+- `c3bcc41`: docs: record production hardening verification
+- `0c16319`: feat(ops): add backups and digest-based releases
+- `d3c8da1`: fix(reader): clarify licensed chapter handoff
+- `1353e68`: fix(ios): bound remote image downloads
+- `cf9f23b`: Merge pull request #13 from ur1el0/codex/production-hardening
+- `c8b2972`: docs: refresh production hardening guidance
+- `e2719e9`: fix(ios): improve auth accessibility and Dynamic Type
+- `24cf3a1`: fix(backend): harden ingestion and provider resource bounds
+
+### 📁 github-repository-auditor
+- `e967683`: Automated daily audit log
+
