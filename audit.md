@@ -3969,3 +3969,56 @@
 ### 📁 github-repository-auditor
 - `e6c0ca6`: Automated daily audit log
 
+
+## Activity for 2026-11-06
+
+### 📁 Fable-IOS
+- `170e1eb`: Merge pull request #29 from ur1el0/codex/fail-closed-runtime-config
+- `ece39a0`: fix(config): fail closed on invalid runtime settings
+- `a9588af`: Merge pull request #28 from ur1el0/codex/reader-dynamic-type
+- `9a59910`: docs: record reader Dynamic Type CI verification
+- `dd41f7f`: fix(a11y): scale reader text with Dynamic Type
+- `edc5366`: Merge pull request #27 from ur1el0/codex/record-recovery-ci-verification
+- `9ff702b`: docs: record recovery CI verification
+- `7e0ea77`: Merge pull request #26 from ur1el0/codex/password-recovery-tests
+- `2aff177`: docs: record password recovery test coverage
+- `f7d21d8`: test(ios-auth): cover password recovery interactions
+- `19a5612`: Merge pull request #25 from ur1el0/codex/audit-findings-dynamic-type-auth-rate-limit
+- `8326f30`: docs: record hosted audit verification
+- `26c246e`: docs: record accessibility and auth hardening
+- `4a3cfe5`: feat(ios-auth): add password recovery flow
+- `eaea4f3`: feat(security): add recovery and shared rate limits
+- `a03a4f7`: feat(a11y): scale custom SwiftUI fonts
+- `1598df3`: fix(ci): stabilize iOS simulator destination (#24)
+- `26c3437`: Merge pull request #23 from ur1el0/codex/disable-dependabot-version-updates
+- `c73d8f3`: Merge pull request #22 from ur1el0/codex/fix-audit-findings
+- `4dbce66`: docs: update CI and Dependabot guidance
+- `4c499cd`: build(deps): bump pytest from 8.4.2 to 9.2.0 in /backend (#19)
+- `28686d2`: docs: record production audit follow-up
+- `74d1c62`: fix(ci): use pinned actions and bundled simulator
+- `ff7479a`: fix(a11y): improve muted text contrast
+- `8e1335c`: chore(deps): disable Dependabot version updates
+
+### 📁 KapitBayan
+- `d7223d4`: Merge pull request #309 from ur1el0/fix/post-defense-followups
+- `81e5206`: docs(api): update post-defense controls and deployment contract
+- `827ed7d`: feat(mobile): improve resident review and notification UX
+- `5de9f64`: feat(web): improve account review and notification UX
+- `af7ab02`: feat(notifications): expand resident notification events
+- `0e9667f`: feat(services): limit repeat queues and clarify document receipts
+- `37c938c`: feat(auth): add guardianship, transfers, and login auditing
+
+### 📁 opportunity-sniper
+- `f44df6b`: Update seen AI deals database
+
+### 📁 Portfolio-v2
+- `dce3256`: Merge pull request #12 from ur1el0/codex/visitor-request-throttle
+- `fd9f8b4`: fix: rate limit visitor alert requests
+- `b04776c`: Merge pull request #11 from ur1el0/codex/visitor-alert-rate-limit
+- `1a4b043`: fix: rate limit visitor alert emails
+- `31abfb5`: Merge pull request #10 from ur1el0/codex/disable-visitor-alert-emails
+- `ed9d7c3`: fix: disable visitor emails by default
+
+### 📁 github-repository-auditor
+- `139c3cb`: Automated daily audit log
+
