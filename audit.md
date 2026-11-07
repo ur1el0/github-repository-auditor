@@ -4057,3 +4057,63 @@
 ### 📁 github-repository-auditor
 - `03f6948`: Automated daily audit log
 
+
+## Activity for 2026-11-08
+
+### 📁 KapitBayan
+- `c2b3603`: Merge pull request #315 from ur1el0/fix/queue-document-release
+- `2bf80fe`: test(queue): align audit and day boundary expectations
+- `108685e`: test(mobile): align queue workflow fixtures
+- `74041bd`: fix(mobile): guard queue refresh before snackbar
+- `06a9771`: test(queue): align queue workflow expectations
+- `06cd08d`: fix(queue): link ticket completion to document release
+- `8b510c8`: Merge pull request #314 from ur1el0/fix/document-lifecycle-transitions
+- `c5f7a72`: fix(documents): enforce request lifecycle transitions
+- `88e0a1d`: Merge pull request #313 from ur1el0/fix/document-queue-ready-only
+- `0ff544e`: test(queue): require ready document for pickup ticket
+- `35d5508`: fix(queue): gate document pickup tickets on readiness
+- `aad9841`: Merge pull request #312 from ur1el0/fix/walkin-cash-payment-release
+- `f6bf6e0`: fix(documents): preserve resident waiver label
+- `06f1cf6`: fix(documents): record walk-in cash payments
+- `ae6fffe`: Merge pull request #311 from ur1el0/chore/allow-certificate-verification-migration
+- `d354798`: fix(ci): allow certificate verification migration
+- `1b0819e`: Merge pull request #310 from ur1el0/fix/revision-matrix-panel-comments
+- `a92796f`: test(backend): enforce admin-only fee assessment
+- `5befce7`: docs: record post-defense revisions and v1.0.8
+- `77d3200`: feat(mobile): add offline reads and service workflow updates
+- `210fac4`: feat(web): improve document workflows and resident UX
+- `8848f65`: feat(backend): add certificate verification and review controls
+
+### 📁 Fable
+- `78dd42a`: Merge pull request #9 from ur1el0/test/android-api-client-contract
+- `1c9dcd6`: test: cover Android API client contract
+- `c52d4c6`: Merge pull request #8 from ur1el0/feature/reader-progress-restore
+- `b3fdbfb`: Merge pull request #7 from ur1el0/feature/android-backend-config
+- `275c60b`: fix: configure Android debug API endpoint
+- `9621365`: Merge pull request #6 from ur1el0/feature/reader-chapter-chaining
+- `524a65d`: test: verify continuous chapter chaining
+- `48750d2`: feat: chain chapters in continuous reader
+- `3cd9da8`: test: cover on-demand chapter loading
+- `ac4b5c7`: feat: load reader chapters on demand
+- `3912b22`: Merge pull request #5 from ur1el0/feature/reader-tap-to-turn
+- `d128714`: Merge pull request #3 from ur1el0/feature/reader-immersive-controls
+- `58293c0`: test: cover reader tap-to-turn zones
+- `588b85f`: feat: add paginated tap-to-turn zones
+- `2aa474d`: test: verify saved reader position restoration
+- `e6b2afb`: feat: restore saved reader position
+- `77635e5`: test: cover reader progress mapping
+- `33902b1`: feat: map saved reader progress
+- `c833c8f`: test: cover immersive reader gestures
+- `4f4e219`: feat: add immersive reader controls
+- `bdc2815`: Merge pull request #2 from ur1el0/feature/phase-1-models
+- `27fdee9`: feat: add reader display options and pagination
+- `017bd1a`: feat: add paragraph-based reader pagination
+- `048e640`: feat: expose reader preferences to ui
+- `d0d2d82`: feat: persist reader display preferences
+
+### 📁 opportunity-sniper
+- `74948b1`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `1419473`: Automated daily audit log
+
