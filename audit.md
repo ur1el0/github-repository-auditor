@@ -4117,3 +4117,30 @@
 ### 📁 github-repository-auditor
 - `1419473`: Automated daily audit log
 
+### 📁 Fable-IOS
+- `7bc4646`: Merge pull request #33 from ur1el0/feature/deployment-readiness
+- `db582d2`: feat(deploy): add OCI production readiness
+
+### 📁 url-checker
+- `fa33c05`: Merge pull request #4 from ur1el0/feat/oracle-deployment
+- `8a81fc8`: feat(deploy): add private Oracle Cloud setup
+
+### 📁 KapitBayan
+- `1227bfe`: Merge pull request #316 from ur1el0/fix/document-purpose-urgency-visibility
+- `b1d0664`: fix(documents): show purpose and requested speed
+
+### 📁 Fable
+- `bb59955`: Merge pull request #10 from ur1el0/test/android-api-client-contract
+- `b43a585`: Merge branch 'agent/swarm-20261107212213-576937-2' into test/android-api-client-contract
+- `ff78cfa`: Merge branch 'agent/swarm-20261107212213-576937-1' into test/android-api-client-contract
+- `976cd02`: Merge branch 'agent/swarm-20261107212213-576937-0' into test/android-api-client-contract
+- `e863098`: fix(data): hydrate metadata-only Gutenberg stories from chapters
+- `f417f33`: fix(ui): hydrate metadata-only stories and load uncached initial chapters
+- `db10bae`: test(api): cover health check and on-demand chapter API contracts
+
+### 📁 opportunity-sniper
+- `c5b42cb`: Update seen AI deals database
+
+### 📁 github-repository-auditor
+- `84f43df`: Automated daily audit log
+
