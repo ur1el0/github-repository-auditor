@@ -4177,3 +4177,92 @@
 ### 📁 github-repository-auditor
 - `d43b645`: Automated daily audit log
 
+
+## Activity for 2026-11-10
+
+### 📁 Portfolio-v2
+- `04405ab`: Merge pull request #13 from ur1el0/codex/fix-visitor-alert-import
+- `61ccc93`: fix: resolve visitor alert runtime import
+
+### 📁 KapitBayan
+- `14ef9f7`: Merge pull request #324 from ur1el0/feat/resident-barangay-transfer
+- `d362795`: test(auth): mock optional private proof storage method
+- `77b8307`: Merge pull request #323 from ur1el0/feat/transactional-official-receipt-series
+- `adc4a74`: fix(mobile): remove unused transfer test imports
+- `f8ab045`: docs(api): update openapi schema and transfer controls documentation
+- `74e6d70`: feat(mobile): add resident barangay transfer request section
+- `9eef1d0`: feat(web): implement resident transfer submission and proof verification UI
+- `ec2b2d2`: feat(auth): add resident residency proof and address to transfer request
+- `a3c5162`: test(payments): follow automatic receipt verification UI
+- `6fa3658`: fix(payments): allow waiver to cancel pending proof
+- `5a658b6`: feat(payments): assign O.R. numbers from barangay series
+- `4ce0c1f`: Merge pull request #322 from ur1el0/fix/production-ticket-day-migration
+- `50854c2`: Merge pull request #321 from ur1el0/codex/queue-submit-state-guard
+- `1199e3f`: Merge pull request #320 from ur1el0/codex/dashboard-request-error-state
+- `2ec9cf2`: Merge pull request #319 from ur1el0/codex/revision-evidence-docs
+- `a4ee34b`: Merge pull request #318 from ur1el0/codex/mobile-registration-evidence-compression
+- `71e0018`: fix(migrations): unblock production queue schema
+- `513b896`: docs(revisions): record Redmi queue guard verification
+- `dc903f0`: fix(mobile): show unavailable queue action as disabled
+- `5576b57`: docs(revisions): record mobile review build verification
+- `d0d8fe1`: docs: record queue request guard from device review
+- `0b8bb09`: fix(mobile): block ticket requests when status is unknown
+- `eb20015`: docs: add production API recovery checklist
+- `98db88a`: docs: record November 9 production and device findings
+- `1fae2ca`: fix(mobile): show unavailable request status on fetch failure
+- `ce91b67`: docs: update revision evidence and manual
+- `72223f0`: fix(mobile): compress registration evidence images
+- `75cc376`: Merge pull request #317 from ur1el0/audit/sensitive-workflows
+
+### 📁 pdf-to-docx
+- `8bf7be2`: fix: improve editor accessibility and production HSTS
+- `778bc88`: Improve PDF tools responsive design
+- `4718bd4`: feat: ship React PDF editor workspace
+- `89e02ec`: feat: improve PDF editor usability
+- `e9b763b`: feat: add browser-local PDF editor
+
+### 📁 url-checker
+- `5fd2cba`: feat: add anonymous one-time URL checker (#7)
+- `856903e`: feat: add public multi-user beta (#6)
+- `cc4b40a`: feat(security): harden runtime and add verified backups (#5)
+
+### 📁 Fable
+- `543433e`: Merge pull request #25 from ur1el0/fix/android-ci-gradle-bootstrap
+- `3e01b24`: ci: retry Gradle wrapper bootstrap
+- `4ab01ea`: Merge pull request #19 from ur1el0/ci/android-release-build-checks
+- `0f2b888`: Merge pull request #18 from ur1el0/fix/android-release-r8-optimization
+- `7507dd0`: Merge pull request #17 from ur1el0/fix/android-release-cleartext-policy
+- `9330ce8`: Merge pull request #16 from ur1el0/fix/android-backup-exclusions
+- `454a012`: Merge pull request #15 from ur1el0/fix/android-release-api-url-guard
+- `92a3170`: Merge pull request #14 from ur1el0/test/android-shelf-owner-isolation
+- `dc5f31e`: Merge pull request #13 from ur1el0/fix/android-provider-search-cache
+- `f1685e2`: Merge pull request #12 from ur1el0/docs/android-roadmap-alignment
+- `5407ce3`: ci: update Actions runtimes
+- `f327ce2`: docs(ci): document Android validation checks
+- `908972e`: ci: add Android build validation workflow
+
+### 📁 mseuf-offline-ticketing
+- `cf8a976`: Merge pull request #13 from ur1el0/feature/admin-ui-redesign
+- `7d9871d`: docs: add tunnel setup guide
+- `ca5abb3`: chore: add Cloudflare and Expo tunnel launcher scripts
+- `7551ebd`: test: cover client IP handling behind a local tunnel
+- `675cfa1`: feat: trust loopback proxies so tunnelled phones keep their own IP
+- `0e50d0e`: Merge pull request #12 from ur1el0/feature/offline-readiness-hardening
+- `33598ec`: docs: add offline hardening collaborator handoff
+- `b1d82cc`: docs: align guidance with offline behavior
+- `a1a0283`: test: cover recovery access and scanner lookup
+- `b531c5f`: feat(mobile): add recovery and indexed scans
+- `6ccb69a`: feat(admin-web): manage scanner staff access
+- `519a800`: feat(api): expose password recovery and staff status
+- `7b02fbc`: feat(auth): add recovery and staff access services
+- `9e666ce`: feat(db): add security staff active status
+
+### 📁 Fable-IOS
+- `c24a59a`: Merge pull request #35 from ur1el0/fix/sanitize-server-error-logs
+- `43d0135`: Merge pull request #34 from ur1el0/feature/gutenberg-catalog-snapshot
+- `4cd4eba`: fix(security): sanitize backend exception logs
+- `08656de`: feat(backend): add Gutenberg catalog snapshot fallback
+
+### 📁 github-repository-auditor
+- `b210ec5`: Automated daily audit log
+
