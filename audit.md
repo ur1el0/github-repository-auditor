@@ -4287,3 +4287,33 @@
 ### 📁 github-repository-auditor
 - `2ba7a3b`: Automated daily audit log
 
+
+## Activity for 2026-11-12
+
+### 📁 mseuf-offline-ticketing
+- `a285c12`: Merge pull request #23 from ur1el0/feature/student-scan-confirmation
+- `801b59f`: feat(mobile): show "Ticket scanned" on the student's phone after a gate scan
+- `006ee25`: Merge pull request #22 from ur1el0/feature/mobile-scanner-home
+- `0e6eacb`: feat(mobile): plain-language staff copy and advanced settings section
+- `a12e007`: feat(mobile): make scan the primary gate action with clear reasons
+- `8183e9c`: refactor(mobile): split scanner home into components and hooks
+- `e9c2316`: Merge pull request #21 from ur1el0/feature/mobile-student-pass
+- `f510320`: feat(mobile): confirm sign-out and use friendly ticket status labels
+- `a273b2c`: feat(mobile): add full-screen student pass with brightness and keep-awake
+- `88eb5e9`: refactor(mobile): extract useTotpTicket and split student ticket components
+- `993a683`: Merge pull request #20 from ur1el0/feature/mobile-scan-result
+- `e4404cc`: feat(mobile): add haptic feedback and auto-resume after admit
+- `83fc234`: feat(mobile): redesign scan result as admit or do-not-admit panel
+- `f0b64f5`: fix(mobile): keep scan decision visible during background sync
+- `99450d0`: refactor(mobile): extract useTicketScanner and useSyncQueue hooks
+- `3bbbd40`: Merge pull request #19 from ur1el0/fix/restore-mobile-test-script
+- `0772233`: fix: restore the mobile test script lost in the #17 merge
+- `6fcb7c4`: Merge pull request #18 from ur1el0/fix/cloudflare-expo-tunnel
+- `2e3ab75`: Merge pull request #17 from ur1el0/feature/mobile-ui-redesign
+- `88300fe`: Merge branch 'main' into feature/mobile-ui-redesign
+- `1e0bd1a`: Merge pull request #16 from ur1el0/feature/milestone-gaps
+- `ee4c0d4`: fix: send the Expo app through a Cloudflare tunnel by default
+
+### 📁 github-repository-auditor
+- `a7b98a0`: Automated daily audit log
+
