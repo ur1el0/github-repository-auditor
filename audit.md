@@ -4317,3 +4317,24 @@
 ### 📁 github-repository-auditor
 - `a7b98a0`: Automated daily audit log
 
+### 📁 KapitBayan
+- `de3d829`: Merge pull request #328 from ur1el0/codex/revision-evidence-2026-11-12
+- `a342576`: Merge pull request #326 from ur1el0/chore/allowlist-production-migrations-2026-11-12
+- `453317a`: Merge pull request #325 from ur1el0/fix/backend-security-updates-2026-11-12
+- `544b2cb`: Merge branch 'main' into codex/revision-evidence-2026-11-12
+- `5c5bd0e`: Merge branch 'main' into chore/allowlist-production-migrations-2026-11-12
+- `5b7708e`: Merge branch 'main' into fix/backend-security-updates-2026-11-12
+- `44eb02a`: Merge pull request #327 from ur1el0/ci/nonfatal-dart-info-diagnostics-2026-11-12
+- `6824577`: docs(revisions): note current documentation CI state
+- `3dab60a`: docs(revisions): record analyzer CI completion
+- `d04a5ff`: docs(revisions): reconcile matrix status with current evidence
+- `6d04dc9`: ci(mobile): keep informational analyzer findings nonfatal
+- `5c9a4df`: fix(deploy): allow reviewed pending production migrations
+- `1496adc`: fix(security): update flagged backend dependencies
+
+### 📁 pdf-to-docx
+- `91f8f03`: fix: default PDF conversion to editable Word
+
+### 📁 github-repository-auditor
+- `023bb2d`: Automated daily audit log
+
