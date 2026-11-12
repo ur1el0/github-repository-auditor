@@ -4338,3 +4338,52 @@
 ### 📁 github-repository-auditor
 - `023bb2d`: Automated daily audit log
 
+
+## Activity for 2026-11-13
+
+### 📁 Fable-IOS
+- `3b7a2fe`: Merge pull request #40 from ur1el0/feat/render-neon-deployment
+- `b7a1f28`: fix(deploy): colocate Render and Neon in Singapore
+- `6d9d3f1`: Merge pull request #39 from ur1el0/feat/render-neon-deployment
+- `c7cdc29`: deploy(render): configure Neon-backed free service
+- `46cdba4`: test(database): verify PostgreSQL compatibility
+- `b7d2fcb`: feat(database): support Neon PostgreSQL storage
+- `1a6315d`: Merge pull request #38 from ur1el0/fix/live-gutenberg-catalog
+- `a1ac5be`: ci: pin backend tests to Ubuntu 24.04
+- `9ea1a23`: docs(agents): define milestone commit rules
+- `3e8df2e`: test(catalog): cover live Gutenberg responses
+- `dfbc25b`: fix(ui): remove fabricated catalog details
+- `60fe7c8`: fix(library): derive discovery from live metadata
+- `bbc34ac`: fix(catalog): use live Gutenberg discovery data
+- `3179207`: Merge pull request #37 from ur1el0/fix/mac-reported-issues
+- `c82fd08`: test: separate provider HTTP and service coverage
+- `a114eca`: test(api): cover provider fallback and HTTP failure cases
+- `6882282`: test(api): cover live catalog author and chapter responses
+- `c8ca0e8`: Merge pull request #36 from ur1el0/feat/fable-branding
+- `139af65`: fix(backend): fall back across Gutenberg text endpoints
+- `2ed21fb`: docs: record UI semantic cover foil binding in progress log
+- `605b702`: fix(ui): bind story title to library cover placeholders
+
+### 📁 EUEvent
+- `272bba1`: Merge pull request #31 from ur1el0/feature/offline-ticketing-test-logic-design
+- `49ea5d4`: test(scanner): cover offline ticket contracts
+- `3e0c421`: test(admin): cover dashboard management workflows
+- `247891b`: test(admin): cover login and API services
+- `33fa624`: test(backend): cover gate assignment and scan sync
+- `6dfe84c`: test(backend): cover directory and event workflows
+- `064660f`: fix(scanner): reject empty ticket secrets
+- `80b764c`: fix(scanner): reject incomplete scan acknowledgements
+- `e6eea68`: fix(backend): allow gates without assigned staff
+- `f961831`: refactor(scanner): extract TOTP core
+- `09784ef`: refactor(scanner): extract student ticket contract
+- `7f19945`: refactor(scanner): extract scan sync contract
+- `17ad6ee`: refactor(scanner): extract gate manifest contract
+- `371132c`: refactor(scanner): extract API client core
+- `7592e95`: Merge pull request #24 from ur1el0/feature/mobile-login-profile
+
+### 📁 pdf-to-docx
+- `a3bb4ca`: feat: preserve PDF layout in editable Word output
+
+### 📁 github-repository-auditor
+- `824e66d`: Automated daily audit log
+
