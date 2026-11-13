@@ -4390,3 +4390,36 @@
 ### 📁 github-repository-auditor
 - `04c4dfb`: Automated daily audit log
 
+
+## Activity for 2026-11-14
+
+### 📁 github-repository-auditor
+- `4e426d2`: Automated daily audit log
+
+### 📁 Portfolio-v2
+- `dd83704`: Merge pull request #14 from ur1el0/codex/agentic-workflows-profile
+- `b5c6e2b`: feat: align portfolio with current CV
+
+### 📁 Fable-IOS
+- `3999354`: Merge pull request #42 from ur1el0/docs/simulator-captures
+- `e1d8c95`: Merge pull request #41 from ur1el0/feat/security-and-architecture-remediation
+- `6aa2573`: docs(handoff): update Plan 06 completion status and verification commands
+- `6cf046a`: chore(config): document FABLE_TRUSTED_PROXY_CIDRS in .env.example
+- `ac46a17`: docs(captures): refresh UI screenshots and walkthrough from current app
+- `9557cea`: docs(plans): mark Plan 06 remediation complete
+- `8305391`: test(ios): cover author isolation, store recovery, shelf migration, and validation
+- `4e34ebc`: feat(profile): add account deletion and published story management UI
+- `9920a4e`: feat(ios): harden SwiftData recovery, consolidate shelf state, and wire lifecycle APIs
+- `384a01c`: test(backend): cover Plan 06 security, caching, and lifecycle flows
+- `a82b27b`: feat(backend): enforce unique handles, optimize story queries, and add lifecycle endpoints
+- `3c89781`: fix(rate-limit): harden client IP extraction, auth limits, and read fast-path
+
+### 📁 ur1el0
+- `8df5151`: Merge pull request #6 from ur1el0/restore-github-profile-format
+- `5406060`: docs: restore original GitHub profile format
+- `221976a`: Merge pull request #5 from ur1el0/update-github-profile-tech-stack
+- `cf574a9`: docs: correct GitHub profile project list
+- `cf372d5`: docs: resolve profile README conflict
+- `0589c3d`: Merge pull request #3 from ur1el0/codex/concise-github-profile
+- `ac91b62`: docs: update GitHub profile tech stack
+
