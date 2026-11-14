@@ -4423,3 +4423,16 @@
 - `0589c3d`: Merge pull request #3 from ur1el0/codex/concise-github-profile
 - `ac91b62`: docs: update GitHub profile tech stack
 
+### 📁 github-repository-auditor
+- `1b858c8`: Automated daily audit log
+
+### 📁 Portfolio-v2
+- `4bd96cd`: Merge pull request #16 from ur1el0/feature/credential-categories-modals
+- `5da61a2`: feat: separate portfolio credentials and preview certificates
+
+### 📁 Fable-IOS
+- `3b92b94`: Merge pull request #44 from ur1el0/feat/uptimerobot-liveness
+- `5af55cd`: deploy(health): use liveness probes for free monitoring
+- `9f79724`: test(health): verify liveness avoids database access
+- `bf6a465`: feat(health): add database-independent liveness check
+
