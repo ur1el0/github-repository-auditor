@@ -4436,3 +4436,35 @@
 - `9f79724`: test(health): verify liveness avoids database access
 - `bf6a465`: feat(health): add database-independent liveness check
 
+
+## Activity for 2026-11-15
+
+### 📁 github-repository-auditor
+- `e8eb1c5`: Automated daily audit log
+
+### 📁 Portfolio-v2
+- `c2877ca`: Merge pull request #18 from ur1el0/fix/certificate-pdf-blob-preview
+- `b0a1ce6`: fix: render PDF previews from blob URLs
+- `205a2c4`: Merge pull request #17 from ur1el0/fix/certificate-preview-fallback
+- `df94303`: fix: show fallback when certificate preview fails
+- `cc3e638`: fix: add fallback for embedded certificate PDFs
+
+### 📁 Fable-IOS
+- `1e66192`: Merge pull request #43 from ur1el0/feat/fresh-gutenberg-discovery
+- `7f01e55`: Merge pull request #45 from ur1el0/fix/uptimerobot-head-probe
+- `9cd3a1e`: test(health): cover HEAD liveness probes
+- `48f3a8a`: fix(health): accept HEAD liveness probes
+- `27760c3`: test(reader): isolate pagination regression test on main actor
+- `55f77c3`: test(standard-ebooks): cover empty main fallback
+- `dde09be`: fix(standard-ebooks): avoid XML element truthiness
+- `c56d711`: docs(catalog): document Gutenberg discovery sources
+- `14a755a`: feat(library): show recent and popular Gutenberg shelves
+- `1425506`: test(gutenberg): cover fresh and popular discovery
+- `293225b`: fix(reader): preserve chapter divisions and unknown counts
+- `98452ee`: feat(gutenberg): add recent and popular discovery
+
+### 📁 ur1el0
+- `b4a1a8f`: Merge pull request #7 from ur1el0/feature/compact-github-stats
+- `d8dd255`: update top languages to 6
+- `e00e0dd`: docs: reduce GitHub stats footprint
+
