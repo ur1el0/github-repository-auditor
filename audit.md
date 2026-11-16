@@ -4480,3 +4480,65 @@
 ### 📁 github-repository-auditor
 - `0f71f60`: Automated daily audit log
 
+
+## Activity for 2026-11-17
+
+### 📁 KapitBayan
+- `c09d471`: Merge pull request #338 from ur1el0/feature/queue-websockets-realtime
+- `2f38f53`: refactor(queue): remove polling intervals and enforce real-time websocket updates
+- `7d2871a`: Merge pull request #337 from ur1el0/feature/kiosk-equipment-borrowing
+- `6a645d8`: feat(kiosk): add equipment borrowing service tab and form to public kiosk
+- `3181ccb`: feat(kiosk): add equipment borrowing intake endpoint and migration
+- `de317e5`: Merge pull request #336 from ur1el0/feature/pwa-hotlines-matrix-revisions
+- `10bf8b5`: feat(hotlines): add resident emergency directory with direct telephone dialing
+- `fedce5b`: feat(pwa): add progressive web app manifest, icons, service worker, and offline banner
+- `ccd7965`: Merge pull request #335 from ur1el0/fix/test-media-storage-isolation
+- `352d84d`: fix(tests): isolate test media storage from external cloudinary credentials
+- `40a5d90`: Merge pull request #334 from ur1el0/fix/kiosk-ticket-print-layout
+- `8458b70`: fix(kiosk): restore printable ticket slip styling and isolate certificate qr print
+- `cd8f7d4`: Merge pull request #333 from ur1el0/feature/restore-django-channels-websockets
+- `f004592`: fix(tests): pass localhost origin header to websocket communicator for allowed hosts validator
+- `0375b64`: fix(tests): restore pytest-asyncio async test runner for websocket tests
+- `0b9fd17`: fix(tests): use sync runner with async_to_sync and add pytest-asyncio to ci
+- `f2f1ebc`: feat(frontend): integrate real-time websocket listener for live queue and public display
+- `7510fb6`: feat(queue): broadcast real-time queue updates to websocket channel groups
+- `a4f8c5b`: feat(channels): configure daphne, asgi router, and tenant-scoped queue consumer
+- `1cb2ead`: Merge pull request #332 from ur1el0/feat/monthly-accomplishment-report
+- `c8ca867`: Merge pull request #331 from ur1el0/feature/queue-concurrency-and-clearance-qr
+- `9884578`: feat(documents): embed verification QR code and URL on issued clearance PDF
+- `0622d39`: feat(queue): implement select_for_update skip_locked on ticket candidates and test concurrent calls
+- `3da8d55`: Merge pull request #330 from ur1el0/feature/mobile-offline-outbox
+- `1cb86a4`: test(web-dashboard): add Vitest tests for accomplishment report filtering and exports
+- `1d16003`: feat(web-dashboard): add Monthly Barangay Accomplishment Report card with PDF/CSV export
+- `9c9e54c`: feat(web-i18n): add accomplishment report types and Filipino translations
+- `ea387ff`: test(services-report): add monthly filtering, tenant isolation, and export tests
+- `aab71af`: feat(services-api): add accomplishment report summary and CSV/PDF export endpoints
+- `fed4072`: feat(services-report): add monthly accomplishment report aggregation service and PDF template
+
+### 📁 github-repository-auditor
+- `e63abac`: Automated daily audit log
+
+### 📁 Fable-IOS
+- `f3f5b87`: Merge pull request #48 from ur1el0/feat/federated-book-sources
+- `67b80d7`: test(reader): verify in-book search, markdown highlights export, and offline cache status
+- `c419fef`: feat(reader): add in-book search, offline downloading, and quote card export
+- `a1e4fff`: feat(reader): add screen brightness slider to display options sheet
+- `7d4cd82`: test(theme): verify dark surface WCAG AA contrast and appearance persistence
+- `a85e954`: feat(theme): add adaptive dark and system app appearance
+- `b096cb3`: test(reader): cover passage boundary range matching and offset resolution
+- `b412cea`: feat(reader): require long press for annotations and add passage boundary range controls
+- `32b2b34`: docs(setup): document wireless iPhone, Fedora Linux, and tunnel setup
+- `4e8dccb`: chore(scripts): add single-command wireless backend and tunnel launcher
+- `897ce97`: fix(ios): decode fractional ISO-8601 dates and add runtime server URL switcher
+- `0837030`: feat(auth): return development recovery token when SMTP is unconfigured
+- `7d90493`: Merge pull request #47 from ur1el0/feat/federated-book-sources
+- `f1c78af`: Merge pull request #46 from ur1el0/feat/book-library-continuity
+- `0d69dba`: docs(repo): update handoff context and root readme for federated book sources
+- `8819a1f`: docs(architecture): incorporate federated provider topology and fault isolation
+- `9def52a`: docs(walkthrough): document federated provider endpoints and feature journeys
+- `49268c0`: docs(catalog): document federated Standard Ebooks endpoints and edition identity
+- `2d29bb1`: test(ios): verify same-title editions stay distinct across providers
+- `afee0d8`: feat(ios): surface Standard Ebooks shelf and preserve cross-provider edition identity
+- `02cdc82`: test(backend): cover Standard Ebooks detail and federated provider failure isolation
+- `31dcb89`: feat(backend): add Standard Ebooks work detail endpoint and propagate upstream errors
+
