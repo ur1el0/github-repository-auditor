@@ -4545,3 +4545,35 @@
 ### 📁 github-repository-auditor
 - `adf530c`: Automated daily audit log
 
+
+## Activity for 2026-11-18
+
+### 📁 KapitBayan
+- `74687bc`: Merge pull request #343 from ur1el0/feat/server-time-clock-sync
+- `fa69185`: feat(mobile): synchronize client clock skew from server headers in api client
+- `5ea6781`: feat(frontend): calculate server clock skew and enforce synchronized time in scheduler
+- `a2ece02`: feat(backend): inject server time header and expose in cors for clock sync
+- `0d58247`: Merge pull request #342 from ur1el0/feat/direct-hotline-calling
+- `1251b72`: Merge branch 'main' into feat/direct-hotline-calling
+- `03981f8`: Merge pull request #341 from ur1el0/docs/chairman-revisions-and-architecture-update
+- `4a34d6b`: feat(mobile): initiate phone calls directly when clicking hotline numbers
+- `a309c30`: chore(mobile): bump release version to 1.0.9+20
+- `6be7bfd`: docs: document ADR 029 post-defense chairman revisions and update verification logs
+- `cd94871`: Merge pull request #340 from ur1el0/feat/chairman-feedback-revisions
+- `8f35535`: feat(admin): sync analytics date range and metric filter toggles with export endpoints
+- `716db4b`: feat(analytics): add custom date range and metric filters to report generator
+- `f715d7b`: feat(mobile): implement 5-per-page newest-first pagination and filters for my reports
+- `422d7db`: feat(reports): add newest-first ordering, filtering, and pagination to issue reports
+- `0b2555c`: feat(mobile): add direct camera photo capture to issue reporting
+- `2867461`: fix(activities): prevent selecting or submitting past date/time in scheduler modal
+- `e9f4d7b`: fix(activities): reject past dates and times in schedule serializer
+- `5585163`: feat(kiosk,citizen): integrate resident sign-in, walk-in pin, and borrow validation
+- `89dc7ca`: feat(admin): add kiosk staff authorization pin management
+- `5a999c7`: feat(kiosk): enforce resident authentication and staff pin authorization
+- `ba14243`: feat(auth,services): add kiosk staff pin and walk-in borrower identity fields
+- `3335431`: Merge pull request #339 from ur1el0/fix/certificate-verification-postgres-lock
+- `a0812b1`: fix(documents): resolve postgres outer join lock error and mask onboarding admin username
+
+### 📁 github-repository-auditor
+- `6aab653`: Automated daily audit log
+
