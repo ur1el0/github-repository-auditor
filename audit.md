@@ -4577,3 +4577,14 @@
 ### 📁 github-repository-auditor
 - `6aab653`: Automated daily audit log
 
+### 📁 KapitBayan
+- `e37de0b`: Merge pull request #346 from ur1el0/docs/final-release-and-verification-update
+- `0e13c9b`: docs: update README download link to v1.0.9 and refresh verification log
+- `d3c1969`: Merge pull request #345 from ur1el0/feat/allow-operator-approve-co-admins
+- `8f45e83`: Merge pull request #344 from ur1el0/fix/mobile-direct-call-permission
+- `86c4a37`: feat(auth): allow operator to approve additional barangay administrators
+- `358440a`: fix(mobile): request runtime call permission and trigger direct call on card tap
+
+### 📁 github-repository-auditor
+- `55be549`: Automated daily audit log
+
