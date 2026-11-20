@@ -4609,3 +4609,20 @@
 ### 📁 github-repository-auditor
 - `215f8de`: Automated daily audit log
 
+
+## Activity for 2026-11-21
+
+### 📁 littlelemon_capstone
+- `b1b74ef`: feat: implement UserProfile with editable details, save/discard, and logout
+- `a06bf96`: feat: implement Home menu with category filtering, search, and dish details
+- `14b3a3a`: feat: implement 3-page onboarding flow and reusable hero banner
+- `8cf67cf`: feat: add Core Data persistence controller and menu API models
+- `e3fab45`: feat: add app entry point and UserDefaults persistence keys
+- `ec01385`: docs: add capstone README and Home screen wireframe
+
+### 📁 Fable-IOS
+- `f8dcc28`: docs(sidestore): add recovery and auto-refresh guide
+
+### 📁 github-repository-auditor
+- `c47b709`: Automated daily audit log
+
