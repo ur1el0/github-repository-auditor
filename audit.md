@@ -4669,3 +4669,43 @@
 ### 📁 github-repository-auditor
 - `1c0272e`: Automated daily audit log
 
+
+## Activity for 2026-11-23
+
+### 📁 Lock-Ad-v3
+- `ebb9532`: Merge pull request #46 from ur1el0/chore/remove-conversation-export
+- `0f849c4`: docs: remove obsolete conversation export
+- `fb99d99`: Merge pull request #43 from ur1el0/fix/osm-import-failure-exit
+- `3f5f751`: Merge pull request #42 from ur1el0/feat/osm-import-dry-run
+- `800f113`: Merge pull request #41 from ur1el0/fix/safety-bbox-validation
+- `07a9b5e`: Merge pull request #40 from ur1el0/feat/map-safety-provenance
+- `b8caafb`: Merge pull request #39 from ur1el0/fix/emergency-contact-limit
+- `ccc70c8`: Merge pull request #38 from ur1el0/fix/frontend-paginated-lists
+- `091167b`: Merge pull request #37 from ur1el0/docs-user-api-data-guides
+- `35bc565`: Merge pull request #36 from ur1el0/feature/frontend-moderator-tests
+- `f7525a2`: Merge pull request #35 from ur1el0/feature/frontend-route-planner-tests
+- `aa32ebc`: Merge pull request #34 from ur1el0/feature/navigation-provider-tests
+- `dc131ca`: Merge pull request #33 from ur1el0/feature/frontend-critical-flow-tests
+- `669391f`: Merge pull request #32 from ur1el0/feature/reliability-production-readiness
+- `487bf3b`: Merge pull request #31 from ur1el0/fix/audit-emergency-contact-rbac
+- `4683cc7`: Merge pull request #30 from ur1el0/fix/audit-gemini-privacy-gate
+- `3bc6b68`: Merge pull request #29 from ur1el0/fix/audit-osm-import-safety
+- `44d3d53`: Merge pull request #28 from ur1el0/fix/audit-route-weather-contract
+
+### 📁 codeql-github-foundations
+- `32ac793`: Congratulations!🎉
+- `dc942f2`: Update routes.py
+- `ce7a143`: Merge pull request #2 from ur1el0/learning-codeql
+- `d00f8e1`: Fix SQL query syntax in routes.py
+- `34ab0a2`: Fix SQL query for book name search
+- `bcf28fb`: Start exercise
+- `4b0799f`: Initial commit
+
+### 📁 KapitBayan
+- `3e40919`: Update CodeQL workflow for Java/Kotlin build mode
+- `3bdb3ab`: chore(docs): untrack internal ai tasks, vulnerability triage, and production reset runbook (#350)
+- `493c91a`: fix(security): address operational notes, audit kiosk auth, and align container ASGI (#349)
+
+### 📁 github-repository-auditor
+- `089593e`: Automated daily audit log
+
