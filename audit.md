@@ -4638,3 +4638,34 @@
 ### 📁 pdf-to-docx
 - `3b99e40`: Improve PDF-to-DOCX conversion fidelity and default to editable Word output (#2)
 
+### 📁 KapitBayan
+- `544a7aa`: Merge pull request #348 from ur1el0/fix/security-fortification-hardening
+- `0001d1f`: fix(mobile): restrict refresh cookie header to refresh and logout requests
+- `ae1de51`: fix(infra): run frontend nginx unprivileged with npm ci and 10m upload limit
+- `dff1fbe`: fix(infra): overwrite X-Forwarded-For header at frontend nginx proxy
+- `de6936f`: fix(infra): exclude env files and local artifacts from frontend Docker build context
+- `cd27dea`: fix(frontend): use relative future dates in equipment borrowing form validation test
+- `351bfec`: fix(reports): neutralize CSV formula injection in accomplishment exports
+- `024aad2`: fix(media): reject directory paths and enforce nosniff in protected media view
+- `61cde8d`: fix(api): constrain integer PK viewset lookups across service, report, and comms routes
+- `b53fca7`: fix(websocket): remove global queue broadcast and validate barangay room
+- `1c59058`: fix(reports): restrict issue deletion to admins and require verified resident reporters
+- `016b7c3`: fix(services): restrict queue ticket deletion to admins with audit logging and broadcast
+- `6078d83`: fix(services): block generic update methods on document requests
+- `8f9510c`: fix(services): prevent QR revocation bypass on generate-pdf
+- `305988e`: fix(tenancy): block unassigned officials from reading resident, queue, and dashboard records
+- `3fb47cb`: fix(tenancy): isolate transferred resident records in dashboard and accomplishment analytics
+- `e65e2e6`: fix(security): apply shared database throttling to staff management and token refresh
+- `5f9fa18`: fix(security): make reverse-proxy client IP extraction configurable
+- `4bc0701`: fix(auth): clean replaced transfer proof and defer transfer notifications post-commit
+- `b76c95a`: fix(auth): queue replaced resident evidence files for post-commit cleanup
+- `2ca54da`: fix(auth): enforce 5 MiB upload limits on barangay logo and city seal
+- `1665ce1`: fix(auth): harden resident CSV import identity, email, and birth date validation
+- `9979ab0`: fix(auth): block password reset for superusers, inactive, and blocked accounts
+- `12e8394`: fix(auth): block resident sign-in when resident profile is missing
+- `899ace2`: fix(auth): block sole-admin and operator self-erasure and clear refresh cookie
+- `0a3ae88`: fix(auth): prevent case-insensitive email and username identity collisions
+
+### 📁 github-repository-auditor
+- `1c0272e`: Automated daily audit log
+
