@@ -4712,3 +4712,47 @@
 ### 📁 github-repository-auditor
 - `8d8d316`: Automated daily audit log
 
+
+## Activity for 2026-11-24
+
+### 📁 EUEvent
+- `0460df4`: Merge pull request #32 from ur1el0/docs/system-completion-release
+
+### 📁 Temp
+- `8c43371`: Merge pull request #10 from ur1el0/feature/real-psgc-and-live-pagasa
+- `d27ac75`: Merge pull request #4 from ur1el0/feature/geography-and-alias-matcher
+- `d285eee`: feat: add live pagasa bulletin html parser, ingest endpoint, and tests
+- `1d54683`: feat: load all 82 real philippine province geojson polygons in psgc seed
+- `43cd946`: chore: configure alembic database migrations and container startup upgrade
+- `f4a9b15`: docs: add project overview, local setup, and oracle always-free deployment guide
+- `b454254`: feat: add docker-compose stack and caddy reverse proxy for oracle cloud deployment
+- `4aa9130`: chore: add psycopg driver and multi-arch dockerfiles for backend and frontend
+- `8817c15`: fix: proxy /api/v1 requests via next.config rewrites for single-origin and tunnel access
+- `9798a01`: feat: add maplibre typhoon map, bulletin diff timeline, and area alert dashboard
+- `cb711b7`: feat: add typed domain contracts and fastapi v1 client
+- `2eff61e`: chore: scaffold next.js typescript tailwind and maplibre pwa configuration
+- `5def942`: test: add pagasa adapter, geojson contract, and api integration test suite
+- `35f8b34`: feat: add rest and geojson api routers for storms, areas, alerts, and review queue
+- `0052dbe`: feat: add pagasa tcb ingestion adapter and philippine psgc seed data
+- `7697db3`: feat: add bulletin diff calculator and deduplicated signal-lifted alert matcher
+- `b31ceda`: feat: add area subscription and deduplicated alert delivery log models
+- `04b149b`: feat: add multi-portion psgc area matcher and review queue resolution service
+- `47e4c9e`: feat: add psgc admin area, alias, wind signal, and review queue models
+- `c8a7ec2`: Merge pull request #3 from ur1el0/feature/backend-core-foundation
+- `959b7af`: feat: add health endpoint and core storm schema test suite
+- `3ac8516`: feat: add immutable versioned storm and track point models
+- `1a69505`: chore: configure fastapi settings and sqlalchemy database engine
+- `ed55f48`: Merge pull request #2 from ur1el0/feature/architecture-and-governance
+- `c32050a`: docs: add system architecture specifications and decision records
+- `f1bceb5`: docs: add engineering reference guides and operational playbooks
+- `bd3a703`: chore: initialize dual-os repository baseline
+
+### 📁 Lock-Ad-v3
+- `a4676bb`: Merge pull request #47 from ur1el0/chore/oss-readiness
+- `38a55fe`: test(security): cover non-string login payloads and weather error cases
+- `0b6653b`: fix(accounts): validate login payload with LoginSerializer
+- `ecced82`: docs: add open-source license, governance, and GitHub templates
+
+### 📁 github-repository-auditor
+- `c8d8d53`: Automated daily audit log
+
