@@ -4815,3 +4815,65 @@
 - `315f000`: fix(render): run migrations in dockerCommand for free tier
 - `02bdac7`: chore: add Render Blueprint and normalize Postgres URL for psycopg3
 
+
+## Activity for 2026-11-27
+
+### 📁 collectors-marketplace-sniper
+- `095a75a`: docs: add agent instructions and initial progress log
+- `1de6443`: chore: bootstrap python project structure and tooling
+
+### 📁 ai-cliche-highlighter
+- `2dba175`: Merge pull request #2 from ur1el0/feature/storage-layer
+- `13cc122`: feat: add validated storage layer and per-site toggle helpers
+- `f0c33fb`: Merge pull request #1 from ur1el0/feature/matcher-engine
+- `cef8270`: feat: implement cliché dictionary and pure matching/replacement engine
+- `806a9a1`: feat: initialize MV3 extension scaffold and least-privilege manifest
+
+### 📁 Fable-API
+- `90f044c`: chore(vercel): configure single FastAPI backend service in vercel.json
+- `8f5d1ac`: feat: add Vercel serverless FastAPI entrypoint and config
+- `a2e3110`: chore: prepare fable-api for Hugging Face Docker Space
+
+### 📁 Sac
+- `da7f377`: Merge pull request #10 from ur1el0/fix/clear-stale-error-banner
+- `98c9642`: feat: add per-ply coach suggestions and Key Suggestions turning-points card
+- `296cafd`: fix: auto-clear stale error banner on fetch success and add dismiss button
+- `f5f8a3e`: Merge pull request #9 from ur1el0/feature/lichess-chesscom-sync
+- `11a7997`: feat: add Lichess and Chess.com username sync UI in import drawer
+- `147c116`: feat: add Lichess and Chess.com public username game sync endpoint
+- `480bbc5`: Merge pull request #8 from ur1el0/feature/vercel-backend-entrypoint
+- `53eb477`: fix: add psycopg driver, pool_pre_ping, and postgres URL normalization
+- `aa3e818`: chore: ignore .vercel directories in root gitignore
+- `bb06b06`: feat: add Vercel serverless FastAPI entrypoint and /tmp SQLite default
+- `91c4b2f`: Merge pull request #7 from ur1el0/feature/puzzle-trainer-and-batch-import
+- `2e5bfe7`: Merge pull request #6 from ur1el0/feature/ci-and-deployment
+- `2207221`: Merge pull request #5 from ur1el0/feature/nextjs-review-viewer
+- `ff27946`: Merge pull request #4 from ur1el0/feature/analysis-jobs-and-api
+- `7f9f910`: Merge pull request #3 from ur1el0/feature/eval-math-and-uci-adapter
+- `1549fdb`: Merge pull request #1 from ur1el0/feature/architecture-and-governance
+- `2fd0896`: feat: add interactive turning-point puzzle trainer, batch import, and annotated PGN export UI
+- `3d2c428`: feat: add batch PGN import, turning-point puzzle feed, and annotated PGN export
+- `20ceb9e`: fix: pluralize stored game count and truncate header game selector
+- `17e7580`: docs: add local development and Docker run instructions to README
+- `e57de47`: ci: add GitHub Actions workflow and Stockfish backend Dockerfile
+- `d1ec962`: feat: add Next.js chess game review viewer, eval bar, chart, and PV explorer
+- `24cc2c7`: feat: add games and versioned analysis REST API endpoints
+
+### 📁 Fable-PWA
+- `1bf7fd0`: chore: add vercel.json SPA and /api/v1 proxy rewrites
+- `7f36cb9`: fix(ui): render PWA install modal via portal outside backdrop-blur header
+- `2fcc9e1`: chore: point default API proxy to Vercel backend (fable-api-eosin.vercel.app)
+
+### 📁 KapitBayan
+- `9abfddf`: feat(hosting): add PORT support and lightweight /health liveness endpoint
+
+### 📁 github-repository-auditor
+- `ca48807`: Automated daily audit log
+
+### 📁 shopify-inventory-alerts
+- `29fd45b`: chore: add Railway deployment config
+
+### 📁 data-processing-api
+- `c6257c7`: fix(railway): remove nested sh -c from startCommand
+- `e9a2ebe`: chore: add Railway deployment config
+
