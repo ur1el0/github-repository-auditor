@@ -4880,3 +4880,56 @@
 ### 📁 github-repository-auditor
 - `e8d5710`: Automated daily audit log
 
+
+## Activity for 2026-11-28
+
+### 📁 collectors-marketplace-sniper
+- `3e9703e`: Merge pull request #5 from ur1el0/feature/systemd-service
+- `1867706`: chore: add systemd --user service template and usage instructions
+- `17914c8`: Merge pull request #4 from ur1el0/feature/v2-monetization-hooks
+- `b46e815`: docs: record feature/v2-monetization-hooks completion
+- `15f1c2c`: feat: add affiliate URL params and per-watchlist notifier routing
+- `844dcb9`: Merge pull request #3 from ur1el0/feature/v2-price-drop-alerts
+- `8a0f57b`: docs: record feature/v2-price-drop-alerts completion
+- `dc1b7f0`: feat: add SQLite price-tracking migration and price-drop re-alerting
+- `9cee1fd`: docs: record feature/v2-multi-notifier completion
+- `4ada50d`: feat: add CompositeNotifier and multi-notifier config fan-out
+- `b2d9b75`: Merge pull request #2 from ur1el0/feature/json-fetcher
+- `d70ea52`: Merge pull request #1 from ur1el0/feature/docs-architecture
+- `5ae3e5a`: docs: record feature/json-fetcher completion
+- `e8540c1`: feat: add configurable JsonFeedFetcher and CLI feed routing
+- `536fb42`: refactor: extract ConditionalHttpClient and RoutingFeedFetcher into fetchers/base
+- `7a7aa0d`: docs: record feature/desktop-notifier completion
+- `e5b1a7f`: feat: add DesktopNotifier using notify-send and wire CLI config
+
+### 📁 ai-cliche-highlighter
+- `e6dd60d`: Merge pull request #7 from ur1el0/fix/ui-overflow-audit
+- `4e10166`: fix: harden UI text wrapping and add full-hostname tooltip
+- `01272c4`: Merge pull request #6 from ur1el0/feature/ci-workflow
+- `c20d02b`: Merge branch 'main' into feature/ci-workflow
+- `8e1aa34`: Merge pull request #5 from ur1el0/feature/icons-docs-checks
+- `039ce80`: Merge branch 'main' into feature/icons-docs-checks
+- `5d664ed`: Merge pull request #4 from ur1el0/feature/popup-and-options
+- `01117fd`: Merge branch 'main' into feature/popup-and-options
+- `99b40c1`: Merge pull request #3 from ur1el0/feature/content-highlighter
+- `745225f`: fix: preserve ShadowRoot focus across popover re-renders to prevent focusout clearing matches
+- `6719982`: test: validate web_accessible_resources matches instead of requiring use_dynamic_url
+- `56877e7`: fix: await ES module scanner import in executeScript and handle status fallback
+- `7ac3455`: fix: remove use_dynamic_url so isolated-world module imports resolve cleanly
+- `c46fe17`: fix: collapse popover to badge when switching active editable fields
+- `a7d4e9f`: ci: add GitHub Actions workflow to run tests on PRs and main
+- `49ecd86`: fix: scope MutationObserver to active field, handle focusout, and resolve outermost editable root
+
+### 📁 Fable-PWA
+- `63cb1b2`: feat(ui): add 6 iOS reader themes and polish StoryDetail + Account screens
+- `2a0a1cc`: feat(ui): replicate Fable iOS design system, floating glass pill nav, and screen layouts
+- `4f4835e`: fix(ui): uncramp mobile reader bar, make reader full-bleed, and add view/sheet animations
+- `86131b0`: chore: trigger initial Cloudflare Workers automated build
+- `3db6058`: chore(cloudflare): add worker.js and wrangler.jsonc for Workers Builds
+
+### 📁 Fable
+- `61726fe`: feat(ui): replicate Fable iOS design system, floating glass pill nav, and screen layouts (#32)
+
+### 📁 github-repository-auditor
+- `48e1f12`: Automated daily audit log
+
